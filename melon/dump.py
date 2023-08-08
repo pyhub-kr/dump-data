@@ -55,4 +55,5 @@ song_df['좋아요'] = pd.Series(like_dict)
 # song_df의 상위 5개 Row만 조회합니다. 
 print(song_df.head())
 
-song_df.to_json("melon.json", orient="records")
+song_df.to_json("melon.json", orient="records", force_ascii=False)
+
