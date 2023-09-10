@@ -1,13 +1,14 @@
+import time
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
 # 멜론 차트 페이지의 HTML 응답 문자열을 획득합니다.
-url = 'http://www.melon.com/chart/index.htm'
+chart_url = 'http://www.melon.com/chart/index.htm'
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
 }
-html = requests.get(url, headers=headers).text
+html = requests.get(chart_url, headers=headers).text
 
 # HTML 응답 문자열로부터, 필요한 태그 정보를 추출하기 위해, BeautifulSoup4 객체를 생성합니다.
 soup = BeautifulSoup(html, 'html.parser')
@@ -17,11 +18,27 @@ song_list = []
 
 for song_tag in soup.select('#tb_list tbody tr'):
     곡일련번호 = song_tag['data-song-no']
-    커버이미지_주소 = song_tag.select_one('img')['src']
+    # 커버이미지_썸네일_주소 = song_tag.select_one('img')['src']
     곡명 = song_tag.select_one('a[href*=playSong]').text
     가수 = song_tag.select_one('a[href*=goArtistDetail]').text
     앨범 = song_tag.select_one('a[href*=goAlbumDetail]')['title']
     순위 = song_tag.select_one('.rank').text
+
+    song_detail_url = f'https://www.melon.com/song/detail.htm?songId={곡일련번호}'
+    song_headers = dict(headers, Referer=chart_url)
+    song_html = requests.get(song_detail_url, headers=song_headers).text
+    song_soup = BeautifulSoup(song_html, 'html.parser')
+    print(곡명, 가수, song_detail_url)
+    try:
+        커버이미지_주소 = song_soup.select_one('.section_info img')["src"].split('?', 1)[0]
+    except TypeError:
+        커버이미지_주소 = None
+
+    keys = [tag.text.strip()  for tag in song_soup.select('.section_info .meta dt')]
+    values = [tag.text.strip()  for tag in song_soup.select('.section_info .meta dd')]
+    meta_dict = dict(zip(keys, values))
+
+    가사 = ' '.join(line.strip() for line in song_soup.select_one('.lyric').text.splitlines())
     
     song = {
         '곡일련번호': 곡일련번호,
@@ -29,14 +46,20 @@ for song_tag in soup.select('#tb_list tbody tr'):
         '곡명': 곡명,
         '가수': 가수,
         '앨범': 앨범,
+        # '커버이미지_썸네일_주소': 커버이미지_썸네일_주소,
         '커버이미지_주소': 커버이미지_주소,
+        '가사': 가사,
+        '장르': meta_dict.get('장르', None),
+        '발매일': meta_dict.get('발매일', '').replace('.', '-') or None,
     }
     # print(song)
     
     song_list.append(song)
+
+    time.sleep(0.05)
     
 # 추출해낸 곡 정보를 Pandas의 DataFrame화 시킵니다.
-song_df = pd.DataFrame(song_list, columns=['순위', '곡일련번호', '앨범', '곡명', '가수', '커버이미지_주소']).set_index('곡일련번호')
+song_df = pd.DataFrame(song_list, columns=['순위', '곡일련번호', '앨범', '곡명', '가수', '커버이미지_주소', '가사', '장르', '발매일']).set_index('곡일련번호')
 
 # song_df의 인덱스가 노래 id 목록입니다.
 song_id_list = song_df.index
