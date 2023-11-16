@@ -39,9 +39,13 @@ for song_tag in soup.select('#tb_list tbody tr'):
     values = [tag.text.strip()  for tag in song_soup.select('.section_info .meta dd')]
     meta_dict = dict(zip(keys, values))
 
-    inner_html = song_soup.select_one('.lyric').encode_contents().decode("utf8")
-    inner_html = re.sub(r'<!--.*?-->', '', inner_html).strip()
-    가사 = re.sub(r'<br\s*/?>', '\n', inner_html).strip()
+    lyric_tag = song_soup.select_one('.lyric')
+    if lyric_tag:
+        inner_html = song_soup.select_one('.lyric').encode_contents().decode("utf8")
+        inner_html = re.sub(r'<!--.*?-->', '', inner_html).strip()
+        가사 = re.sub(r'<br\s*/?>', '\n', inner_html).strip()
+    else:
+        가사 = ''
     
     song = {
         '곡일련번호': 곡일련번호,
