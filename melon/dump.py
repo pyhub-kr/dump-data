@@ -1,3 +1,4 @@
+import datetime
 import re
 import time
 import requests
@@ -83,7 +84,10 @@ like_dict = { str(song['CONTSID']):song['SUMMCNT'] for song in result['contsLike
 song_df['좋아요'] = pd.Series(like_dict)
 
 # song_df의 상위 5개 Row만 조회합니다. 
-print(song_df.head())
+# print(song_df.head())
 
-song_df.reset_index(drop=False).to_json("melon.json", orient="records", force_ascii=False, indent=4)
+filename = datetime.datetime.now().strftime("melon-%Y%m%d.json")
+
+song_df.reset_index(drop=False).to_json(filename, orient="records", force_ascii=False, indent=4)
+print(f"created {filename}")
 
