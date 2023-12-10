@@ -2,7 +2,7 @@ name: Melon Dump Workflow
 
 on:
   schedule:
-    - cron: '0 30 3 * *'  # GMT
+    - cron: '30 3 * * *'  # GMT
 
 jobs:
   run_script:
@@ -16,7 +16,8 @@ jobs:
 
     - name: 필요한 패키지 설치
       run: |
-        pip install -r melon/requirements.txt
+        python -m pip install --upgrade pip
+        python -m pip install -r melon/requirements.txt
 
     - name: 스크립트 실행
       run: |
