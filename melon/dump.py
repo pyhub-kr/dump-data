@@ -30,7 +30,7 @@ def main():
     song_list = []
 
     for song_tag in soup.select('#tb_list tbody tr'):
-        곡일련번호 = song_tag['data-song-no']
+        곡일련번호 = int(song_tag['data-song-no'])
         # 커버이미지_썸네일_주소 = song_tag.select_one('img')['src']
         곡명 = song_tag.select_one('a[href*=playSong]').text
 
