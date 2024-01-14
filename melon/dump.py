@@ -77,7 +77,7 @@ def main():
             # '커버이미지_썸네일_주소': 커버이미지_썸네일_주소,
             '커버이미지_주소': 커버이미지_주소,
             '가사': 가사,
-            '장르': meta_dict.get('장르', None),
+            '장르': list(map(lambda s: s.strip(), meta_dict.get('장르', '').split(','))),
             '발매일': meta_dict.get('발매일', '').replace('.', '-') or None,
         }
         # print(song)
