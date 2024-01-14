@@ -36,11 +36,10 @@ def main():
 
         artist_tag = song_tag.select_one('a[href*=goArtistDetail]')
         artist_name = artist_tag.text
-        artist_uid = get_number_from_string(artist_tag["href"])
+        artist_uid = int(get_number_from_string(artist_tag["href"]))
 
-        # TODO: album_uid
         album_tag = song_tag.select_one('a[href*=goAlbumDetail]')
-        album_uid = get_number_from_string(album_tag["href"])
+        album_uid = int(get_number_from_string(album_tag["href"]))
         album_name = album_tag['title']
         순위 = song_tag.select_one('.rank').text
 
