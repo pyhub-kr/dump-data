@@ -97,7 +97,7 @@ def main():
         'contsIds': song_id_list,
     }
     result = requests.get(url, headers=BASE_HEADERS, params=params).json()
-    like_dict = { str(song['CONTSID']):song['SUMMCNT'] for song in result['contsLike'] }
+    like_dict = { int(song['CONTSID']):song['SUMMCNT'] for song in result['contsLike'] }
 
     # 좋아요 정보를 song_df에 새로운 필드로 추가합니다.
     song_df['좋아요'] = pd.Series(like_dict)
