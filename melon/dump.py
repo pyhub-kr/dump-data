@@ -102,9 +102,7 @@ def extract_song_list(page_url: str, filename_fmt: str):
             # '커버이미지_썸네일_주소': 커버이미지_썸네일_주소,
             "커버이미지_주소": 커버이미지_주소,
             "가사": 가사,
-            "장르": list(
-                map(lambda s: s.strip(), meta_dict.get("장르", "").split(","))
-            ),
+            "장르": [s.strip() for s in meta_dict.get("장르", "").split(",") if s.strip()],
             "발매일": meta_dict.get("발매일", "").replace(".", "-") or None,
         }
         # print(song)
