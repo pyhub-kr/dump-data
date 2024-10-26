@@ -2,7 +2,7 @@ import argparse
 import datetime
 import re
 import time
-from typing import Optional
+from typing import Optional, List, Dict
 
 import requests
 import pandas as pd
@@ -21,7 +21,25 @@ def get_number_from_string(s: str) -> str:
     return None
 
 
-def main(page_url: str, filename_fmt: str):
+def print_today_playlist() -> List[Dict[str, str]]:
+    search_url = "https://www.melon.com/dj/today/djtoday_list.htm"
+
+    html = requests.get(search_url, headers=BASE_HEADERS).text
+    soup = BeautifulSoup(html, "html.parser")
+
+    for tag in soup.select(".none"):
+        tag.extract()
+
+    for wrap_tag in soup.select(".page_header, .rolling"):
+        if "page_header" in wrap_tag.get("class"):
+            print("#", wrap_tag.text.strip())
+        elif "rolling" in wrap_tag.get("class"):
+            for detail_tag in wrap_tag.select(".entry a[href*=goDjPlaylistDetail]"):
+                playlist_id = re.findall(r"\d+", detail_tag["href"])[-1]
+                print("    -", playlist_id, detail_tag.text.strip())
+
+
+def extract_song_list(page_url: str, filename_fmt: str):
     html = requests.get(page_url, headers=BASE_HEADERS).text
 
     # HTML 응답 문자열로부터, 필요한 태그 정보를 추출하기 위해, BeautifulSoup4 객체를 생성합니다.
@@ -150,24 +168,36 @@ if __name__ == "__main__":
     parser.add_argument(
         "--sample", action="store_true", help="Indicate if sample data should be used."
     )
+    parser.add_argument(
+        "--print-today-playlist",
+        action="store_true",
+        help="Show list of playlists.",
+    )
     args = parser.parse_args()
 
-    playlist_id: Optional[str] = args.playlist_id
-    use_sample: bool = args.sample
+    is_print_today_playlist: bool = args.print_today_playlist
 
-    if use_sample:
-        print(f"샘플 데이터. 플레이리스트 {sample_playlist_id} 페이지를 추출합니다.")
-        playlist_id = sample_playlist_id
-
-    if playlist_id:
-        page_url = f"https://www.melon.com/mymusic/dj/mymusicdjplaylistview_inform.htm?plylstSeq={playlist_id}"
-        print(f"플레이리스트 #{playlist_id} 페이지를 추출합니다.")
-        filename_fmt = f"melon-playlist-{playlist_id}-%Y%m%d.json"
+    if is_print_today_playlist:
+        print_today_playlist()
     else:
-        # 멜론 차트 페이지의 HTML 응답 문자열을 획득합니다.
-        page_url = "http://www.melon.com/chart/index.htm"
-        print("멜론 TOP100 차트 페이지를 추출합니다.")
-        filename_fmt = "melon-%Y%m%d.json"
+        playlist_id: Optional[str] = args.playlist_id
+        use_sample: bool = args.sample
 
-    print(page_url)
-    main(page_url, filename_fmt)
+        if use_sample:
+            print(
+                f"샘플 데이터. 플레이리스트 {sample_playlist_id} 페이지를 추출합니다."
+            )
+            playlist_id = sample_playlist_id
+
+        if playlist_id:
+            page_url = f"https://www.melon.com/mymusic/dj/mymusicdjplaylistview_inform.htm?plylstSeq={playlist_id}"
+            print(f"플레이리스트 #{playlist_id} 페이지를 추출합니다.")
+            filename_fmt = f"melon-playlist-{playlist_id}-%Y%m%d.json"
+        else:
+            # 멜론 차트 페이지의 HTML 응답 문자열을 획득합니다.
+            page_url = "http://www.melon.com/chart/index.htm"
+            print("멜론 TOP100 차트 페이지를 추출합니다.")
+            filename_fmt = "melon-%Y%m%d.json"
+
+        print(page_url)
+        extract_song_list(page_url, filename_fmt)
