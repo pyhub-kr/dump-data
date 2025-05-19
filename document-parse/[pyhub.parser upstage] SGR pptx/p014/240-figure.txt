@@ -1,0 +1,4 @@
+<image name='p014/240-figure.jpg'><title>도로 작업 및 신호수 위치</title>
+<details>도로에서 작업이 진행 중이며, 신호수가 교통을 안내하고 있는 모습입니다. 작업 구역에는 안전을 위한 경고 표지판과 주의 표시가 있습니다.</details>
+<entities>신호수, 도로, 작업 구역, 안전 표지판, 교통</entities>
+<hypothetical_questions>이 지역에서 도로 작업이 얼마나 자주 발생할까? 신호수의 역할은 교통 안전에 얼마나 중요한가? 작업 구역에서의 안전 수칙은 무엇일까?</hypothetical_questions></image>

@@ -1,0 +1,4 @@
+<image name='p013/65-figure.jpg'><title>작업용 알루미늄 플랫폼</title>
+<details>이 이미지는 알루미늄으로 제작된 작업용 플랫폼을 보여줍니다. 플랫폼은 안전한 작업을 위해 난간이 설치되어 있으며, 다양한 높이에서 작업할 수 있도록 조정 가능한 다리가 있습니다.</details>
+<entities>알루미늄 플랫폼, 난간, 조정 가능한 다리</entities>
+<hypothetical_questions>이 플랫폼은 어떤 종류의 작업에 가장 적합할까요? 안전성을 높이기 위해 추가적인 기능이 필요할까요? 다양한 산업에서 이 플랫폼을 어떻게 활용할 수 있을까요?</hypothetical_questions></image>

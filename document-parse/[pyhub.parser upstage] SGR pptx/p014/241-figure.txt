@@ -1,0 +1,4 @@
+<image name='p014/241-figure.jpg'><title>시민통제 필요 시 콘걸이대 활용</title>
+<details>이 이미지는 콘걸이대와 관련된 작업 현장을 보여주고 있으며, 두 사람이 대화하고 있는 모습이 담겨 있습니다. 배경에는 차량과 안전 표지판이 보입니다.</details>
+<entities>콘걸이대, 차량, 안전 표지판, 작업자</entities>
+<hypothetical_questions>이러한 콘걸이대의 활용이 시민 안전에 어떤 영향을 미칠까요? 작업자들이 대화하는 내용은 무엇일까요? 이와 같은 작업 환경에서 발생할 수 있는 위험 요소는 무엇일까요?</hypothetical_questions></image>

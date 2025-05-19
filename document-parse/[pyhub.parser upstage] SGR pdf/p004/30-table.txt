@@ -1,0 +1,13 @@
+<image name='p004/30-table.jpg'><title>
+안전보건 및 사업장 가감점
+</title>
+<details>
+표는 안전보건과 사업장에 대한 가감점을 나타냅니다. 안전보건은 -1점 감점, 사업장은 0.5점 감점으로 표시되어 있습니다. 사업장 관련 항목은 SGR 9개 항목입니다.
+</details>
+<entities>
+안전보건, 사업장, 가감점, SGR 9개 항목
+</entities>
+<hypothetical_questions>
+- 안전보건 점수가 낮아지면 사업장 운영에 어떤 영향을 미칠까요?
+- SGR 9개 항목의 개선이 전체 점수에 미치는 영향은 무엇일까요?
+</hypothetical_questions></image>

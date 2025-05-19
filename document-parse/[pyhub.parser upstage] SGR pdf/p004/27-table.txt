@@ -1,0 +1,13 @@
+<image name='p004/27-table.jpg'><title>
+안전 관리 평가 기준
+</title>
+<details>
+표는 안전 관리 평가의 다양한 항목과 그에 따른 점수를 나타냅니다. 리더십 활동은 10점, 활동 안전 보건 점검은 5점, 산업별 및 안전 보건 관련 책임자의 실적 점검은 5점으로 총 30점입니다.
+</details>
+<entities>
+리더십 활동, 활동 안전 보건 점검, 산업별 안전 보건 책임자, 점수, 총점
+</entities>
+<hypothetical_questions>
+- 리더십 활동의 점수를 높이기 위해 어떤 조치를 취할 수 있을까?
+- 안전 보건 점검의 중요성을 어떻게 더 강조할 수 있을까?
+</hypothetical_questions></image>

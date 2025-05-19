@@ -1,0 +1,13 @@
+<image name='p029/81-table.jpg'><title>
+고장 발생 기준 및 상정 제약 조건
+</title>
+<details>
+표는 고장 발생 기준과 관련된 다양한 조건을 나타냅니다. Cri 등급은 WLTE5G 기지국 2개 이상에서 10개 이상의 사이트가 필요하며, Maj 등급은 WLTE5G 기지국 2개 이상에서 30개 이상의 사이트가 요구됩니다. Min 등급은 WLTE5G 기지국 1개 이상에서 20개 이상의 사이트가 필요합니다.
+</details>
+<entities>
+고장 발생 기준, Cri, Maj, Min, WLTE5G, 기지국, 사이트 수, VOC, 정전
+</entities>
+<hypothetical_questions>
+- 각 등급별로 요구되는 기지국과 사이트 수의 차이는 무엇을 의미할까요?
+- 고장 발생 기준이 향후 시스템 운영에 미치는 영향은 무엇일까요?
+</hypothetical_questions></image>

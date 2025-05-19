@@ -1,0 +1,13 @@
+<image name='p011/145-table.jpg'><title>
+작업 계획 및 세부 사항
+</title>
+<details>
+이 표는 특정 작업의 계획 및 세부 사항을 보여줍니다. 작업 시작일은 2024년 5월 24일이며, 종료일은 2024년 3월 31일입니다. 작업 유형은 "CD"로 명시되어 있습니다. 차량의 최대 중량은 000 Kg으로 설정되어 있습니다.
+</details>
+<entities>
+작업명, 작업 기간, 작업 유형, 차량 최대 중량, 연락처 정보
+</entities>
+<hypothetical_questions>
+- 이 작업의 기간이 연장될 경우 어떤 영향을 미칠까요?
+- 차량의 최대 중량이 변경된다면 작업의 안전성에 어떤 영향을 줄까요?
+</hypothetical_questions></image>

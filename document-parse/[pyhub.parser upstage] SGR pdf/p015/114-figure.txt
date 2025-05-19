@@ -1,0 +1,4 @@
+<image name='p015/114-figure.jpg'><title>안전 헬멧과 조명 장비</title>
+<details>이 이미지는 안전 헬멧, 조명 장비, 그리고 헬멧에 부착된 장치의 구조를 보여줍니다. 헬멧은 작업 환경에서 안전을 위해 사용되며, 조명 장비는 어두운 장소에서 시각적 지원을 제공합니다.</details>
+<entities>안전 헬멧, 조명 장비, 부착 장치</entities>
+<hypothetical_questions>이 조명 장비는 어떤 작업 환경에서 가장 유용할까요? 헬멧에 부착된 장치의 추가 기능은 무엇일 수 있을까요? 안전 장비의 발전이 작업자의 안전에 미치는 영향은 무엇일까요?</hypothetical_questions></image>

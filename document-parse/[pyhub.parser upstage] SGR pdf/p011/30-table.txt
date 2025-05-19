@@ -1,0 +1,13 @@
+<image name='p011/30-table.jpg'><title>
+안전교육 확인서
+</title>
+<details>
+이 표는 안전교육 확인서에 대한 내용을 담고 있습니다. 각 항목은 안전교육의 중요성을 강조하며, 확인서에 서명할 필요가 있음을 나타냅니다.
+</details>
+<entities>
+안전교육, 확인서, 서명, 작성자, 확인자
+</entities>
+<hypothetical_questions>
+- 안전교육의 중요성을 어떻게 더 효과적으로 전달할 수 있을까요?
+- 확인서 서명 절차를 개선하기 위한 방법은 무엇일까요?
+</hypothetical_questions></image>

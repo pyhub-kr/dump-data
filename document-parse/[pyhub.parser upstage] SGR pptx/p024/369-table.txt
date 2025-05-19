@@ -1,0 +1,16 @@
+<image name='p024/369-table.jpg'><title>
+온도에 따른 안전 조치 및 주의 사항
+</title>
+<details>
+표는 온도에 따른 안전 조치와 주의 사항을 정리하고 있습니다. 
+- 31°C: 충분한 수분 섭취를 권장하며 물 준비.
+- 33°C: 주요 RM 시 관리 지침을 요구할 수 있으며, 작업 필요 시 10분마다 휴식 권장.
+- 35°C 이상: Critical RM 이상 시 팀 리더에게 보고 및 승인을 요구하며, 작업 필요 시 15분마다 휴식 권장.
+</details>
+<entities>
+온도, 수분 섭취, RM 관리, 작업 지침, 휴식 시간
+</entities>
+<hypothetical_questions>
+- 높은 온도에서 작업 시 직원의 안전을 보장하기 위한 추가 조치는 무엇일까요?
+- 온도 변화에 따른 작업 효율성은 어떻게 달라질까요?
+</hypothetical_questions></image>

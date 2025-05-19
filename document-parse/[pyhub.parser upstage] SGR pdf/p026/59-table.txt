@@ -1,0 +1,13 @@
+<image name='p026/59-table.jpg'><title>
+피부 질환의 주요 증상 및 관리 방법
+</title>
+<details>
+이 표는 다양한 피부 질환의 증상과 관리 방법을 설명하고 있습니다. 주요 질환으로는 땀띠, 열결절, 염증성 피부병, 습진, 화상 등이 있으며, 각 질환의 증상과 치료 방법이 정리되어 있습니다.
+</details>
+<entities>
+피부 질환, 땀띠, 열결절, 염증성 피부병, 습진, 화상, 증상, 치료 방법
+</entities>
+<hypothetical_questions>
+- 각 피부 질환의 예방 방법은 무엇인가요?
+- 특정 피부 질환의 치료에 가장 효과적인 방법은 무엇일까요?
+</hypothetical_questions></image>

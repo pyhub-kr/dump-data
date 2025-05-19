@@ -1,0 +1,13 @@
+<image name='p004/33-table.jpg'><title>
+작업 등급 및 감점 기준
+</title>
+<details>
+이 표는 작업 등급에 따른 감점 기준을 나타냅니다. S 등급은 4점, C4는 3점, C3는 2점, C2는 1점, C1은 0.5점입니다.
+</details>
+<entities>
+작업 등급, S, C4, C3, C2, C1, 감점 기준
+</entities>
+<hypothetical_questions>
+- 각 작업 등급의 감점 기준이 실제 작업 성과에 어떤 영향을 미칠까요?
+- 감점 기준을 변경할 경우 작업 등급의 분포는 어떻게 변할까요?
+</hypothetical_questions></image>

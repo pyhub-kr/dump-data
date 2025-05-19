@@ -1,0 +1,4 @@
+<image name='p017/291-figure.jpg'><title>도로 안전 안내</title>
+<details>도로 공사 구역에서 안전을 위해 작업자가 경고 신호를 보내고 있으며, 주변에 안전 표지판과 교통 통제 장치가 배치되어 있습니다.</details>
+<entities>작업자, 안전 표지판, 교통 통제 장치, 도로, 공사 구역</entities>
+<hypothetical_questions>이런 안전 조치가 실제로 사고를 줄이는 데 얼마나 효과적일까? 도로 작업 중 안전을 강화하기 위해 추가적으로 어떤 조치를 취할 수 있을까?</hypothetical_questions></image>

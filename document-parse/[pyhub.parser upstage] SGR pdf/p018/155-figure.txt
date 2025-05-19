@@ -1,0 +1,4 @@
+<image name='p018/155-figure.jpg'><title>도로 공사 안내도</title>
+<details>이 이미지는 도로 공사 구역을 나타내는 안내도로, 도로의 양쪽에 공사 구역과 교통 신호가 표시되어 있습니다. 교통 통제 및 안전 장치에 대한 정보도 포함되어 있습니다.</details>
+<entities>도로, 차량, 공사 구역, 교통 신호, 안전 장치, 경고 표지판</entities>
+<hypothetical_questions>이 공사 구역에서 교통 사고를 줄이기 위해 어떤 추가적인 안전 조치를 취할 수 있을까? 공사 기간 동안 지역 주민들에게 어떤 영향을 미칠까? 교통 흐름을 원활하게 유지하기 위해 어떤 대체 경로를 제시할 수 있을까?</hypothetical_questions></image>

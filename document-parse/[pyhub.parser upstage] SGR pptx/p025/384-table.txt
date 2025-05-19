@@ -1,0 +1,13 @@
+<image name='p025/384-table.jpg'><title>
+작업 환경 점검 및 지원 방안
+</title>
+<details>
+이 표는 작업 환경 점검과 관련된 내용을 다루고 있습니다. 주요 내용으로는 작업자의 행동 관찰, 긴급 상황 발생 시 대응, 작업의 원활한 지원 방안 등이 포함되어 있습니다.
+</details>
+<entities>
+작업 환경, 작업자 행동, 긴급 상황, 지원 방안, 주변 환경 정리
+</entities>
+<hypothetical_questions>
+- 긴급 상황 발생 시 작업자의 행동 관찰이 어떻게 개선될 수 있을까요?
+- 작업 환경 점검을 통해 어떤 추가적인 지원 방안을 마련할 수 있을까요?
+</hypothetical_questions></image>

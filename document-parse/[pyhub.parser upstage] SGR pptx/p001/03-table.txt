@@ -1,0 +1,13 @@
+<image name='p001/03-table.jpg'><title>
+개정 사항 및 내용 요약
+</title>
+<details>
+이 표는 다양한 개정 사항과 그 내용을 정리하고 있습니다. 총 9개의 개정 사항이 있으며, 가장 최근의 개정은 2024년 9월 13일에 예정되어 있습니다. 주요 개정 사항으로는 SKT SGR 관련 수정과 TBM 및 기타 관련 내용이 포함되어 있습니다.
+</details>
+<entities>
+개정 번호, 개정 항목 및 내용, 담당 부서, 담당자, 개정일
+</entities>
+<hypothetical_questions>
+- 각 개정 사항이 조직의 운영에 미치는 영향은 무엇일까요?
+- 향후 개정 사항이 필요할 경우, 어떤 기준으로 우선순위를 정할 수 있을까요?
+</hypothetical_questions></image>

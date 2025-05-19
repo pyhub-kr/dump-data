@@ -1,0 +1,4 @@
+<image name='p012/46-figure.jpg'><title>다양한 사다리 유형</title>
+<details>이 이미지는 여러 종류의 사다리를 보여줍니다. 각 사다리는 특정 용도와 디자인을 가지고 있으며, 안전성과 편리함을 고려하여 제작되었습니다.</details>
+<entities>사다리, 알루미늄 사다리, A형 사다리, H형 사다리, 작업대</entities>
+<hypothetical_questions>이러한 사다리들은 어떤 작업 환경에서 가장 유용할까요? 각 사다리의 안전성은 어떻게 평가할 수 있을까요? 사다리의 디자인이 사용자의 편리함에 미치는 영향은 무엇일까요?</hypothetical_questions></image>

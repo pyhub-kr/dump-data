@@ -1,0 +1,13 @@
+<image name='p025/383-table.jpg'><title>
+비상 상황 대응 준비 및 절차
+</title>
+<details>
+이 표는 비상 상황에 대한 준비 및 대응 절차를 설명합니다. 주요 내용으로는 현장 준비, 긴급 연락망, 수신 확인 절차 등이 포함되어 있습니다. 특히, 비상 시 119에 연락하는 절차와 관련된 정보가 강조됩니다.
+</details>
+<entities>
+비상 상황, 현장 준비, 긴급 연락망, 수신 확인, 119, 절차
+</entities>
+<hypothetical_questions>
+- 비상 상황 발생 시, 현장 준비가 얼마나 중요한가?
+- 긴급 연락망의 효율성을 높이기 위한 방법은 무엇인가?
+</hypothetical_questions></image>

@@ -1,0 +1,16 @@
+<image name='p024/39-table.jpg'><title>
+온도에 따른 대응 요령
+</title>
+<details>
+표는 온도 단계에 따른 대응 요령을 제시하고 있습니다. 
+- 31°C: 수분 섭취 준비, 안전한 장소 주의.
+- 33°C: 작업 중지 및 위험 요소 관리.
+- 35°C 이상: Critical RM O/I 시행 및 팀 대응 조치.
+</details>
+<entities>
+온도 단계, 31°C, 33°C, 35°C 이상, 수분 섭취, 작업 중지, 위험 요소, Critical RM O/I
+</entities>
+<hypothetical_questions>
+- 33°C에서 작업 중지 시 생산성에 어떤 영향을 미칠까요?
+- 35°C 이상의 온도에서 Critical RM O/I를 시행하는 이유는 무엇인가요?
+</hypothetical_questions></image>

@@ -1,0 +1,17 @@
+<image name='p029/413-table.jpg'><title>
+고객 VOC 처리 기준 및 대응 방안
+</title>
+<details>
+이 표는 고객 VOC(Voice of Customer) 처리 기준과 대응 방안을 나타냅니다. 
+- 1단계: VOC 10건 이상 발생 시, Critical 문제는 50건 이상.
+- 2단계: VOC 30건 이상 발생 시, VIP 고객 200건 이상.
+- 3단계: VOC 50건 이상 발생 시, Open 시 30건 이상.
+각 단계에 따라 SKT 전사 차원에서의 대응이 필요합니다.
+</details>
+<entities>
+VOC, Critical, VIP, SKT, 전사 차원, 대응 기준
+</entities>
+<hypothetical_questions>
+- VOC 발생 시, 각 단계별로 어떤 추가 조치가 필요할까요?
+- 고객의 불만을 줄이기 위해 어떤 예방 조치를 취할 수 있을까요?
+</hypothetical_questions></image>

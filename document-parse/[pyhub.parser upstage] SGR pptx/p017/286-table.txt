@@ -1,0 +1,13 @@
+<image name='p017/286-table.jpg'><title>
+안전 용품 목록
+</title>
+<details>
+이 표는 안전 용품의 종류를 나열하고 있습니다. 안전모, 조끼, 신호용 용품 등이 포함되어 있습니다. 각 항목은 안전과 관련된 필수 장비입니다.
+</details>
+<entities>
+안전모, 조끼, 신호용 용품, 호루라기, 경광봉, 신호 깃발
+</entities>
+<hypothetical_questions>
+- 각 안전 용품의 사용 목적은 무엇인가요?
+- 안전 용품의 적절한 사용이 사고 예방에 미치는 영향은 어떤가요?
+</hypothetical_questions></image>

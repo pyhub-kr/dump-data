@@ -1,0 +1,17 @@
+<image name='p011/28-table.jpg'><title>
+일일 식사 시간표
+</title>
+<details>
+이 표는 일일 식사 시간과 관련된 정보를 제공합니다. 
+- 조식: 16시 30분 - 23시 59분
+- 중식: 11시 - 15시
+- 석식: 18시 30분 - 21시
+- 야식: 22시 - 24시
+</details>
+<entities>
+조식, 중식, 석식, 야식, 시간
+</entities>
+<hypothetical_questions>
+- 각 식사의 시간대가 고객의 선호도에 어떤 영향을 미칠까요?
+- 야식 시간대의 수요는 어떻게 변화할까요?
+</hypothetical_questions></image>

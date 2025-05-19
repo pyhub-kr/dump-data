@@ -1,0 +1,16 @@
+<image name='p015/258-table.jpg'><title>
+안전 교육 및 위험 관리 절차
+</title>
+<details>
+이 표는 ISO 45001 안전보건경영시스템에 따른 교육 내용과 위험 요소를 설명합니다. 
+- 교육 내용: 전기 위험 및 적절한 보호 장비 사용, 위험 분석 및 평가, SGR 관련 안전 작업.
+- 위험 등급: 7,000V 이상 전압에 대한 위험.
+- 작업 전압: AC 220V, 330V, 60Cm, 110Cm 등 다양한 전압 및 크기.
+</details>
+<entities>
+ISO 45001, 전기 위험, 보호 장비, 위험 분석, SGR, 작업 전압, 7,000V
+</entities>
+<hypothetical_questions>
+- 전기 위험에 대한 교육이 직원의 안전에 어떤 영향을 미칠까요?
+- ISO 45001 인증이 기업의 안전 관리에 미치는 장기적인 효과는 무엇일까요?
+</hypothetical_questions></image>

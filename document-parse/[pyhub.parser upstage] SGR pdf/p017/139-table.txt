@@ -1,0 +1,13 @@
+<image name='p017/139-table.jpg'><title>
+안전 장비 목록
+</title>
+<details>
+이 표는 안전 장비의 종류를 나열하고 있습니다. 주요 항목으로는 안전모, 조끼, 신호용 장비가 포함되어 있습니다. 각 항목은 안전과 관련된 용도로 사용됩니다.
+</details>
+<entities>
+안전모, 조끼, 신호용 장비, 안전 장비
+</entities>
+<hypothetical_questions>
+- 각 안전 장비의 사용 빈도는 어떻게 될까요?
+- 안전 장비의 품질이 작업 환경에 미치는 영향은 무엇인가요?
+</hypothetical_questions></image>

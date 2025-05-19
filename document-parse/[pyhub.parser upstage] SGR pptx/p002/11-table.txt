@@ -1,0 +1,13 @@
+<image name='p002/11-table.jpg'><title>
+SGR 등급별 위험 분석
+</title>
+<details>
+이 표는 SGR 등급(SGR1, SGR2, SGR3)별 위험 요소를 나타냅니다. SGR1은 서면 경고가 있으며, SGR2는 지역 안전 관리 미비와 관련된 위험이 있습니다. SGR3는 거래 제한이 있으며, SGR3 초과는 1년 이상으로 설정되어 있습니다.
+</details>
+<entities>
+SGR1, SGR2, SGR3, 서면 경고, 지역 안전 관리, 거래 제한, 1년 이상
+</entities>
+<hypothetical_questions>
+- SGR 등급이 높아질수록 위험 요소는 어떻게 변화할까요?
+- 거래 제한이 SGR3 등급에 미치는 영향은 무엇인가요?
+</hypothetical_questions></image>

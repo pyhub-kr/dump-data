@@ -1,0 +1,13 @@
+<image name='p012/188-table.jpg'><title>
+2021년 2인 1조 작업 시 부조자의 역할
+</title>
+<details>
+이 표는 2021년 2인 1조 작업 시 부조자의 역할에 대한 내용을 담고 있습니다. 작업환경 점검, 작업자의 행동 관찰, 긴급 상황 발생 시 대응, 작업의 완전한 지원 등이 포함됩니다.
+</details>
+<entities>
+작업환경 점검, 작업자의 행동 관찰, 긴급 상황, 작업 지원, 주변 환경 정리
+</entities>
+<hypothetical_questions>
+- 부조자의 역할이 작업 안전성에 미치는 영향은 무엇인가요?
+- 긴급 상황 발생 시 부조자가 어떻게 대응해야 할까요?
+</hypothetical_questions></image>

@@ -1,0 +1,4 @@
+<image name='p014/90-figure.jpg'><title>도로 작업 신호수 위치</title>
+<details>도로에서 작업 중인 신호수가 보이며, 작업 구역을 안내하는 표지판과 안전 장비가 배치되어 있습니다. 도로의 한쪽에는 작업 차량과 여러 개의 안전 표지판이 있습니다.</details>
+<entities>신호수, 도로, 작업 차량, 안전 표지판, 안전 장비</entities>
+<hypothetical_questions>이 작업 구역에서 안전을 보장하기 위해 어떤 추가 조치가 필요할까? 신호수의 역할은 도로 안전에 얼마나 중요한가? 작업이 완료된 후 도로 상태는 어떻게 변화할까?</hypothetical_questions></image>

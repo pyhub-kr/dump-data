@@ -1,0 +1,13 @@
+<image name='p011/10-table.jpg'><title>
+수급인 및 관련 정보
+</title>
+<details>
+이 표는 수급인과 관련된 다양한 역할을 나열하고 있습니다. '김보자'와 '작상자'라는 두 가지 역할이 있으며, 각각 '수급인(사람)'과 '수급인(당사자)'으로 분류됩니다.
+</details>
+<entities>
+수급인, 김보자, 작상자, 수급인(사람), 수급인(당사자)
+</entities>
+<hypothetical_questions>
+- 수급인의 역할에 따라 어떤 차별화된 책임이 있을까요?
+- 김보자와 작상자의 역할이 프로젝트에 미치는 영향은 무엇일까요?
+</hypothetical_questions></image>

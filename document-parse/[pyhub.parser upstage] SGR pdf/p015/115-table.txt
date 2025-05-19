@@ -1,0 +1,17 @@
+<image name='p015/115-table.jpg'><title>
+전압에 따른 안전 거리
+</title>
+<details>
+이 표는 전압에 따른 안전 거리를 나타냅니다. 
+- 220V: 안전 거리 없음
+- 3,300V: 60Cm (오차 10%)
+- 6,600V: 80Cm (오차 10%)
+- 22.9KV: 110Cm (오차 10%)
+</details>
+<entities>
+전압, 안전 거리, 오차
+</entities>
+<hypothetical_questions>
+- 전압이 증가함에 따라 안전 거리가 늘어나는 이유는 무엇인가요?
+- 각 전압 수준에서의 안전 거리를 준수하지 않을 경우 어떤 위험이 발생할 수 있을까요?
+</hypothetical_questions></image>

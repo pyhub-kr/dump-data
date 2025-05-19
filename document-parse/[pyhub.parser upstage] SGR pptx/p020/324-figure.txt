@@ -1,0 +1,4 @@
+<image name='p020/324-figure.jpg'><title>위험 공간 경고 표지</title>
+<details>이 표지는 특정 지역에서의 위험을 알리는 경고 표지로, 출입 금지 및 안전 수칙에 대한 정보를 제공합니다. 위험 요소로는 유해 가스와 구조 작업이 언급되어 있습니다.</details>
+<entities>위험 공간, 유해 가스, 출입 금지, 구조 작업</entities>
+<hypothetical_questions>이 경고 표지가 설치된 이유는 무엇일까요? 유해 가스의 종류는 어떤 것이 있을까요? 이러한 경고 표지가 효과적으로 작용하기 위해서는 어떤 추가 조치가 필요할까요?</hypothetical_questions></image>

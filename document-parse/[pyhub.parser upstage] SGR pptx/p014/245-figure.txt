@@ -1,0 +1,4 @@
+<image name='p014/245-figure.jpg'><title>전봇대와 변압기</title>
+<details>전봇대에 설치된 변압기가 보이며, 전선과 연결되어 있는 모습이다. 변압기에는 경고 표지가 부착되어 있다.</details>
+<entities>전봇대, 변압기, 전선, 경고 표지</entities>
+<hypothetical_questions>이 변압기의 용도는 무엇일까? 변압기의 안전성을 높이기 위한 추가적인 조치는 무엇이 있을까? 전선의 유지보수는 어떻게 이루어질까?</hypothetical_questions></image>

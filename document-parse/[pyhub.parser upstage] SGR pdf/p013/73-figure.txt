@@ -1,0 +1,4 @@
+<image name='p013/73-figure.jpg'><title>리프트 장비</title>
+<details>이 이미지는 리프트 장비의 일종인 스카이 리프트를 보여줍니다. 이 장비는 높은 곳에서 작업을 수행할 수 있도록 설계되었습니다.</details>
+<entities>스카이 리프트, 작업 플랫폼, 기계 장비</entities>
+<hypothetical_questions>이 리프트 장비는 어떤 산업 분야에서 가장 많이 사용될까요? 안전성을 높이기 위해 어떤 기술이 추가될 수 있을까요? 이 장비의 유지보수는 얼마나 자주 이루어져야 할까요?</hypothetical_questions></image>

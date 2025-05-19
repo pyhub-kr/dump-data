@@ -1,0 +1,13 @@
+<image name='p011/17-table.jpg'><title>
+위험 요소 및 대응 방안
+</title>
+<details>
+이 표는 다양한 위험 요소와 그에 대한 대응 방안을 나열하고 있습니다. 총 10개의 위험 요소가 있으며, 각 위험 요소에 대한 구체적인 대응 전략이 제시되어 있습니다.
+</details>
+<entities>
+위험 요소, 대응 방안, 사고, 관리, 안전, 교육, 예방
+</entities>
+<hypothetical_questions>
+- 각 위험 요소에 대한 대응 방안의 효과는 어떻게 평가할 수 있을까요?
+- 향후 발생할 수 있는 새로운 위험 요소는 무엇이며, 이에 대한 준비는 어떻게 해야 할까요?
+</hypothetical_questions></image>

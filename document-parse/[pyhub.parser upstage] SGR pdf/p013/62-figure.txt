@@ -1,0 +1,4 @@
+<image name='p013/62-figure.jpg'><title>접이식 알루미늄 작업대</title>
+<details>이 이미지는 알루미늄으로 제작된 접이식 작업대를 보여줍니다. 작업대는 안정적인 구조를 가지고 있으며, 높이를 조절할 수 있는 다리가 있습니다.</details>
+<entities>작업대, 알루미늄, 접이식 구조, 다리</entities>
+<hypothetical_questions>이 작업대는 어떤 종류의 작업에 가장 적합할까요? 사용자가 작업대의 높이를 조절할 때 어떤 안전 수칙을 따라야 할까요? 이 작업대의 재질이 작업의 효율성에 어떤 영향을 미칠까요?</hypothetical_questions></image>

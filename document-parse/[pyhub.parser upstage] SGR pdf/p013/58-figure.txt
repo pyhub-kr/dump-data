@@ -1,0 +1,4 @@
+<image name='p013/58-figure.jpg'><title>사다리 설치 방법 안내</title>
+<details>이 이미지는 H형 및 A형 사다리의 설치 방법과 안전한 사용을 위한 지침을 설명하고 있다. 각 사다리의 설치 위치와 주의사항이 그림과 함께 제공된다.</details>
+<entities>H형 사다리, A형 사다리, 안전 장비, 건물 외벽</entities>
+<hypothetical_questions>사다리 설치 시 가장 중요한 안전 수칙은 무엇일까? 사다리 사용 중 발생할 수 있는 사고를 예방하기 위한 추가적인 방법은 무엇일까?</hypothetical_questions></image>

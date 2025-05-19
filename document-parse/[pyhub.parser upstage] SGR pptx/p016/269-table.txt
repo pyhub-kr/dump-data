@@ -1,0 +1,19 @@
+<image name='p016/269-table.jpg'><title>
+전류에 따른 감전의 영향
+</title>
+<details>
+이 표는 전류의 세기에 따른 감전의 영향을 나타냅니다. 
+- 1mA: 전기를 느끼는 정도
+- 5mA: 상당한 고통을 느끼는 정도
+- 10mA: 고통을 견디기 어려운 정도
+- 20mA: 극도의 수축으로 인해 자신의 의도대로 행동 불능
+- 50mA: 상당히 위험한 상태
+- 100mA: 치명적인 결과 초래 (사망 등)
+</details>
+<entities>
+전류, 감전, 1mA, 5mA, 10mA, 20mA, 50mA, 100mA, 고통, 위험, 사망
+</entities>
+<hypothetical_questions>
+- 전류의 세기가 증가함에 따라 인체에 미치는 영향은 어떻게 변화할까요?
+- 감전 사고를 예방하기 위해 어떤 안전 조치를 취해야 할까요?
+</hypothetical_questions></image>

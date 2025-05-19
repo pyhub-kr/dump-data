@@ -1,0 +1,13 @@
+<image name='p014/88-table.jpg'><title>
+차량 및 축 정렬에 대한 지침
+</title>
+<details>
+표는 차량의 축 정렬 및 타이어 배치에 대한 올바른 방법과 잘못된 방법을 설명합니다. 각 그림은 차량의 위치와 축의 배치를 보여주며, 올바른 정렬을 강조합니다.
+</details>
+<entities>
+차량, 축 정렬, 타이어 배치, 올바른 방법, 잘못된 방법
+</entities>
+<hypothetical_questions>
+- 차량의 축 정렬이 주행 성능에 미치는 영향은 무엇인가요?
+- 잘못된 타이어 배치가 차량 안전성에 미치는 잠재적 위험은 무엇인가요?
+</hypothetical_questions></image>

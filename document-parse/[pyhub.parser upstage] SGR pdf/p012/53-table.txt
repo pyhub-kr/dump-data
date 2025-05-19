@@ -1,0 +1,13 @@
+<image name='p012/53-table.jpg'><title>
+작업 환경에서 보호자의 역할
+</title>
+<details>
+이 표는 작업 환경에서 보호자의 역할에 대한 내용을 다룹니다. 보호자는 작업자의 행동 관찰, 긴급 상황 발생 시 대응, 작업의 원활한 지원을 포함합니다.
+</details>
+<entities>
+작업 환경, 보호자, 행동 관찰, 긴급 상황, 지원
+</entities>
+<hypothetical_questions>
+- 보호자가 작업자의 행동을 어떻게 효과적으로 관찰할 수 있을까요?
+- 긴급 상황 발생 시 보호자가 취해야 할 최선의 대응 방법은 무엇인가요?
+</hypothetical_questions></image>

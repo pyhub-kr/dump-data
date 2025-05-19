@@ -1,0 +1,4 @@
+<image name='p014/242-figure.jpg'><title>전선 작업 중인 기술자</title>
+<details>전선 작업을 위해 리프트를 이용해 높은 곳에서 작업하는 기술자가 보입니다. 아래에는 안전을 위한 경고 표시가 있습니다.</details>
+<entities>리프트, 전선, 기술자, 경고 표시</entities>
+<hypothetical_questions>이 작업의 안전성을 높이기 위해 어떤 추가 조치를 취할 수 있을까요? 기술자들은 이러한 작업을 수행할 때 어떤 훈련을 받는지 궁금합니다. 전선 작업 중 발생할 수 있는 위험 요소는 무엇일까요?</hypothetical_questions></image>

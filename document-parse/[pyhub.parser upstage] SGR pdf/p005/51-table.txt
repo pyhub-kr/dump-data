@@ -1,0 +1,13 @@
+<image name='p005/51-table.jpg'><title>
+산업재해 발생 및 위원회 구성 기준
+</title>
+<details>
+이 표는 산업재해 발생 시 SGR 위반에 따른 위원회 구성 기준을 나타냅니다. 1개월 이상 3개월 미만 휴업 시에는 지역 안전관리위원회가 구성되며, 3개월 이상 휴업 시에는 구매 심의위원회가 구성됩니다.
+</details>
+<entities>
+산업재해, SGR 위반, 위원회 구성, 지역 안전관리위원회, 구매 심의위원회, 휴업 기간
+</entities>
+<hypothetical_questions>
+- 산업재해 발생 시 위원회 구성의 변화가 재해 예방에 어떤 영향을 미칠까?
+- 3개월 이상 휴업 시 구매 심의위원회의 역할은 무엇인가?
+</hypothetical_questions></image>

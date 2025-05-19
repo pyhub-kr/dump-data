@@ -1,0 +1,4 @@
+<image name='p014/91-figure.jpg'><title>시민통제 및 안전 점검</title>
+<details>이 이미지는 시민통제가 필요한 상황에서의 군경대 활용을 보여줍니다. 두 사람이 차량 앞에서 논의하고 있으며, 주변에는 안전을 위한 경고 표지와 콘이 배치되어 있습니다.</details>
+<entities>군경대, 차량, 안전 표지, 경고 콘</entities>
+<hypothetical_questions>이러한 군경대의 활용이 시민 안전에 어떤 긍정적인 영향을 미칠 수 있을까요? 시민통제가 필요한 상황에서 어떤 추가적인 조치가 필요할까요?</hypothetical_questions></image>

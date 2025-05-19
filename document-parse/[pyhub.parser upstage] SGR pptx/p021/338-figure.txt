@@ -1,0 +1,4 @@
+<image name='p021/338-figure.jpg'><title>작업 안전 절차 및 장비 점검</title>
+<details>이 이미지는 작업 계획서 작성 및 승인 절차, TBM 시험, 긴급 상황 시 안전 용품 점검, 가스 농도 측정 등을 포함한 작업 안전 절차를 설명하고 있습니다.</details>
+<entities>작업 계획서, TBM 시험, 안전 용품, 가스 농도 측정 장비, 작업 현장 사진</entities>
+<hypothetical_questions>1. 작업 안전 절차를 준수하지 않을 경우 어떤 위험이 발생할 수 있을까? 2. TBM 시험의 결과가 작업 안전에 미치는 영향은 무엇일까? 3. 긴급 상황에서 안전 용품의 적절한 사용법은 무엇인가? 4. 가스 농도 측정이 작업 환경에서 얼마나 중요한 역할을 할까?</hypothetical_questions></image>

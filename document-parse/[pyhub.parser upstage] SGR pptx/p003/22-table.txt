@@ -1,0 +1,13 @@
+<image name='p003/22-table.jpg'><title>
+산업 안전 관리 평가 기준
+</title>
+<details>
+표는 산업 안전 관리 위원회와 안전 관리 위원회의 평가 기준을 보여줍니다. 두 위원회 모두 5점 만점으로 평가되며, 각 위원회는 1회 참여가 요구됩니다.
+</details>
+<entities>
+산업안전관리위원회, 안전관리위원회, 평가 기준, 점수, 참여
+</entities>
+<hypothetical_questions>
+- 각 위원회의 평가 기준이 실제 안전 관리에 어떤 영향을 미칠까요?
+- 위원회의 참여가 증가하면 안전 관리의 효과는 어떻게 변화할까요?
+</hypothetical_questions></image>

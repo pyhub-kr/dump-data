@@ -1,0 +1,17 @@
+<image name='p016/265-table.jpg'><title>
+전기 안전 상태 및 허용 전압 제한
+</title>
+<details>
+이 표는 전기 안전 상태와 각 상태에 따른 허용 전압 제한을 나타냅니다. 
+- 제 1 종: 2.5V 이하
+- 제 2 종: 25V 이하
+- 제 3 종: 50V 이하 (제 1 종 및 제 2 종의 경우)
+- 제 4 종: 제한 없음
+</details>
+<entities>
+제 1 종, 제 2 종, 제 3 종, 제 4 종, 허용 전압, 전기 안전 상태
+</entities>
+<hypothetical_questions>
+- 각 전기 안전 상태에 따른 허용 전압 제한은 어떻게 설정되었을까?
+- 제 3 종의 전기 안전 상태에서 허용 전압이 50V 이하인 이유는 무엇일까?
+</hypothetical_questions></image>

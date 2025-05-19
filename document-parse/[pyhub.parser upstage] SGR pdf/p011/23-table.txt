@@ -1,0 +1,13 @@
+<image name='p011/23-table.jpg'><title>
+작업 관련 정보 테이블
+</title>
+<details>
+테이블은 작업 관련 정보의 다양한 항목을 나열하고 있습니다. 현재 상태, 작업 내용, 기획 방법, 후원 방법 등의 정보가 포함되어 있습니다.
+</details>
+<entities>
+현재 상태, 작업 내용, 기획 방법, 후원 방법
+</entities>
+<hypothetical_questions>
+- 현재 상태가 작업 진행에 어떤 영향을 미칠까요?
+- 기획 방법의 변화가 작업 결과에 어떤 영향을 줄 수 있을까요?
+</hypothetical_questions></image>

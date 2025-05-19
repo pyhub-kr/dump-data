@@ -1,0 +1,17 @@
+<image name='p011/161-table.jpg'><title>
+환경 기준 및 허용 한계치
+</title>
+<details>
+이 표는 환경 기준 및 허용 한계치를 나타냅니다. 
+- 산소: 18% 이상, 23.5% 미만
+- 이산화탄소: 1% 이하
+- 일산화탄소: 30ppm 이하
+- 황화수소: 10ppm 이하
+</details>
+<entities>
+산소, 이산화탄소, 일산화탄소, 황화수소, 허용 한계치
+</entities>
+<hypothetical_questions>
+- 이러한 환경 기준이 산업에 미치는 영향은 무엇일까요?
+- 허용 한계치를 초과할 경우 어떤 조치가 필요할까요?
+</hypothetical_questions></image>

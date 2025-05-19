@@ -1,0 +1,4 @@
+<image name='p007/79-figure.jpg'><title>안전 작업 절차</title>
+<details>이 이미지는 안전 작업을 위한 단계별 절차를 설명하고 있습니다. 각 단계는 안전 장비 착용과 점검을 포함하여, 작업 중 안전을 확보하는 방법을 안내합니다.</details>
+<entities>안전 장비, 안전 벨트, 안전 고정점, 안전 장치</entities>
+<hypothetical_questions>이 절차를 따르지 않았을 경우 어떤 위험이 발생할 수 있을까? 안전 장비의 중요성을 어떻게 더 효과적으로 교육할 수 있을까?</hypothetical_questions></image>

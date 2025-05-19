@@ -1,0 +1,13 @@
+<image name='p011/07-table.jpg'><title>
+2인초 작업 시 보호자의 역할
+</title>
+<details>
+이 표는 2인초 작업 시 보호자의 역할에 대한 내용을 담고 있습니다. 작업환경 점검, 작업자의 행동 관찰, 최근 상황 발생 시 대응, 작업의 원활한 지원 등이 포함됩니다.
+</details>
+<entities>
+작업환경 점검, 작업자의 행동, 최근 상황, 작업 지원, 주변 환경 정리
+</entities>
+<hypothetical_questions>
+- 보호자가 작업환경 점검을 통해 어떤 안전 문제를 예방할 수 있을까요?
+- 최근 상황 발생 시 보호자의 적절한 대응이 작업의 효율성에 미치는 영향은 무엇일까요?
+</hypothetical_questions></image>

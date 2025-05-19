@@ -1,0 +1,13 @@
+<image name='p011/150-table.jpg'><title>
+위험 요인 및 대응 전략
+</title>
+<details>
+이 표는 다양한 위험 요인과 그에 대한 대응 전략을 나열하고 있습니다. 총 10개의 위험 요인이 있으며, 각 위험에 대한 구체적인 대응 방안이 제시되어 있습니다.
+</details>
+<entities>
+위험 요인, 대응 전략, 관리, 안전, 교육
+</entities>
+<hypothetical_questions>
+- 각 위험 요인에 대한 대응 전략의 효과는 어떻게 평가할 수 있을까?
+- 새로운 위험 요인이 발생할 경우, 기존의 대응 전략을 어떻게 수정해야 할까?
+</hypothetical_questions></image>

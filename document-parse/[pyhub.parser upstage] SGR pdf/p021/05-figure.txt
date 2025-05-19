@@ -1,0 +1,4 @@
+<image name='p021/05-figure.jpg'><title>작업 안전 절차 흐름도</title>
+<details>이 이미지는 작업 안전 절차를 설명하는 흐름도로, 작업계획서 작성 및 승인을 포함하여 안전구역 설정과 TBM 시험을 다룹니다. 긴급 상황 시 안전 점검과 가스 농도 측정도 포함되어 있습니다.</details>
+<entities>작업계획서, TBM, 안전구역, 긴급 상황, 가스 농도 측정, 안전 장비</entities>
+<hypothetical_questions>1. 이 절차를 통해 작업 안전성을 얼마나 향상시킬 수 있을까? 2. 긴급 상황 발생 시 추가적인 안전 조치는 무엇이 있을까? 3. TBM 시험의 결과가 작업에 미치는 영향은 무엇일까?</hypothetical_questions></image>

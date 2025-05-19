@@ -1,0 +1,4 @@
+<image name='p008/100-figure.jpg'><title>안전 작업 지침서</title>
+<details>이 이미지는 두 개의 안전 작업 지침서를 보여줍니다. 왼쪽은 SKO와 우선 BP사를 위한 것이고, 오른쪽은 무선 BP사를 위한 것입니다. 각 지침서는 작업 장소의 위험 요소를 점검하고 추가적인 위험을 관리하는 방법을 설명합니다.</details>
+<entities>안전 작업 지침서, SKO, 우선 BP사, 무선 BP사</entities>
+<hypothetical_questions>이 지침서의 내용을 기반으로, 작업 환경에서의 안전성을 어떻게 더욱 향상시킬 수 있을까요? 각 회사의 지침서가 다른 이유는 무엇일까요? 이러한 지침서가 실제로 얼마나 효과적으로 적용되고 있는지 평가할 수 있는 방법은 무엇일까요?</hypothetical_questions></image>

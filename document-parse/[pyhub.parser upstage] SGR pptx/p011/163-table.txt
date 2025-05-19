@@ -1,0 +1,13 @@
+<image name='p011/163-table.jpg'><title>
+안전교육 확인서
+</title>
+<details>
+이 표는 안전교육 확인서에 대한 내용을 담고 있습니다. 각 항목은 교육의 중요성을 강조하며, 교육을 이수한 날짜와 확인자의 서명이 필요합니다.
+</details>
+<entities>
+안전교육, 확인서, 교육 이수 날짜, 서명, 확인자
+</entities>
+<hypothetical_questions>
+- 안전교육 이수 후 직원들의 안전 인식은 어떻게 변화할까요?
+- 향후 안전교육의 효과를 어떻게 측정할 수 있을까요?
+</hypothetical_questions></image>

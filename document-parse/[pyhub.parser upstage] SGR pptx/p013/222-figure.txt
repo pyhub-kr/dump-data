@@ -1,0 +1,4 @@
+<image name='p013/222-figure.jpg'><title>버킷 트럭</title>
+<details>이 이미지는 버킷형 트럭을 보여줍니다. 이 차량은 높은 곳에서 작업을 수행할 수 있도록 설계된 리프트가 장착되어 있습니다.</details>
+<entities>버킷 트럭, 리프트, 차량</entities>
+<hypothetical_questions>이 버킷 트럭은 어떤 작업에 가장 적합할까요? 이 차량의 안전성을 높이기 위해 어떤 기술이 필요할까요? 버킷 트럭의 사용이 증가하면 어떤 산업에 긍정적인 영향을 미칠까요?</hypothetical_questions></image>

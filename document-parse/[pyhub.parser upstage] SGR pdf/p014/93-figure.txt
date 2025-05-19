@@ -1,0 +1,4 @@
+<image name='p014/93-figure.jpg'><title>작업 중인 크레인과 근로자</title>
+<details>이미지에는 크레인에 의해 높이 올라간 작업자가 나무를 수리하고 있는 모습이 보입니다. 아래에는 안전 장비를 착용한 근로자가 있습니다.</details>
+<entities>크레인, 나무, 작업자, 안전 장비</entities>
+<hypothetical_questions>이 작업은 어떤 종류의 유지보수 작업일까? 작업자의 안전을 보장하기 위해 어떤 추가 조치가 필요할까? 크레인 작업 시 발생할 수 있는 위험 요소는 무엇일까?</hypothetical_questions></image>

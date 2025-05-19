@@ -1,0 +1,4 @@
+<image name='p013/193-figure.jpg'><title>사다리 설치 방법</title>
+<details>이 이미지는 H형 및 A형 사다리의 설치 방법을 설명하고 있습니다. H형 사다리는 600mm 이상의 안전거리를 유지해야 하며, A형 사다리는 주위 환경에 안전하게 설치해야 합니다. 각 사다리의 올바른 사용법과 주의사항이 강조되어 있습니다.</details>
+<entities>H형 사다리, A형 사다리, 안전거리, 설치 방법</entities>
+<hypothetical_questions>사다리 설치 시 가장 중요한 안전 수칙은 무엇일까요? 다양한 환경에서 사다리를 안전하게 사용하는 방법은 무엇일까요? 사다리 사용 중 발생할 수 있는 사고를 예방하기 위한 추가적인 조치는 무엇이 있을까요?</hypothetical_questions></image>

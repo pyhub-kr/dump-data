@@ -1,0 +1,13 @@
+<image name='p011/156-table.jpg'><title>
+작업 관련 정보 테이블
+</title>
+<details>
+이 테이블은 작업 관련 정보를 정리하고 있습니다. 현재 정보, 작업 장소, 작업 유형, 작업 담당자, 기계 장비, 추천인 등의 항목이 포함되어 있습니다.
+</details>
+<entities>
+현재 정보, 작업 장소, 작업 유형, 작업 담당자, 기계 장비, 추천인
+</entities>
+<hypothetical_questions>
+- 각 작업 유형에 따라 필요한 기계 장비는 어떻게 달라질까요?
+- 추천인이 작업에 미치는 영향은 무엇일까요?
+</hypothetical_questions></image>

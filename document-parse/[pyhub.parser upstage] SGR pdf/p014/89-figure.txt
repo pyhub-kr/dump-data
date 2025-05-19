@@ -1,0 +1,4 @@
+<image name='p014/89-figure.jpg'><title>안전구역 설정 안내</title>
+<details>도로에 안전구역을 설정하기 위한 경고 표지와 콘이 배치되어 있는 모습입니다. 차량 통행을 위한 안전 조치가 이루어지고 있습니다.</details>
+<entities>안전구역 표지판, 교통 콘, 도로, 차량</entities>
+<hypothetical_questions>이 안전구역 설정이 교통사고 예방에 얼마나 효과적일까? 다른 지역에서도 유사한 안전 조치를 도입할 필요가 있을까?</hypothetical_questions></image>

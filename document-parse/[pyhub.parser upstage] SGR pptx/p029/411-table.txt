@@ -1,0 +1,18 @@
+<image name='p029/411-table.jpg'><title>
+고장 발생 기준 및 관리 체계
+</title>
+<details>
+이 표는 고장 발생 기준과 관련된 관리 체계를 나타냅니다. 
+- 기준 그룹: Cri, Maj, Min
+- 기지국 유형: W/ITE/5G, 4세대 이상
+- VOC: 10건 이상
+- 정전 기준: 24시간 이상
+- 지역 RM 필드: Infra, Site
+</details>
+<entities>
+고장 발생 기준, 기지국, VOC, 정전, 지역 RM 필드, Infra, Site
+</entities>
+<hypothetical_questions>
+- 고장 발생 기준이 증가하면 서비스 품질에 어떤 영향을 미칠까요?
+- 각 기준 그룹의 차별화된 관리 전략은 무엇일까요?
+</hypothetical_questions></image>

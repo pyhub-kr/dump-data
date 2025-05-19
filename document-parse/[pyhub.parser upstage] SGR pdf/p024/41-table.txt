@@ -1,0 +1,13 @@
+<image name='p024/41-table.jpg'><title>
+온도에 따른 안전 운영 및 주의 사항
+</title>
+<details>
+이 표는 온도에 따른 안전 운영 및 주의 사항을 정리하고 있습니다. -12도 이하에서는 5cm 이상의 적설 시 주의가 필요하며, -15도 이하에서는 Critical RM의 적용이 요구됩니다.
+</details>
+<entities>
+온도, 안전 운영, 주의 사항, 적설, Critical RM
+</entities>
+<hypothetical_questions>
+- 온도가 -12도 이하일 때, 적설이 5cm 이상일 경우 어떤 추가 조치가 필요할까요?
+- Critical RM의 적용이 안전 운영에 미치는 영향은 무엇인가요?
+</hypothetical_questions></image>

@@ -1,0 +1,13 @@
+<image name='p011/148-table.jpg'><title>
+작업 안전 위험 요소 및 대책
+</title>
+<details>
+이 표는 작업의 안전 위험 요소와 그에 대한 대책을 나열하고 있습니다. 각 작업 내용에 대한 위험 요인과 대응 방안이 제시되어 있습니다.
+</details>
+<entities>
+작업 내용, 위험 요인, 대책
+</entities>
+<hypothetical_questions>
+- 각 작업의 위험 요인을 줄이기 위한 추가적인 대책은 무엇일까요?
+- 위험 요인에 대한 인식이 작업자의 안전에 미치는 영향은 어떤가요?
+</hypothetical_questions></image>

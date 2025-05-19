@@ -1,0 +1,13 @@
+<image name='p015/110-table.jpg'><title>
+전기작업의 위험성과 고위험 작업 분류
+</title>
+<details>
+이 표는 전기작업의 위험성과 관련된 사항을 나타냅니다. 전기작업은 감전 위험이 있으며, 7,000V 초과 특고압선에서 2.5m 이내 작업과 고압전기(1,000V 이상) 작업이 고위험 작업으로 분류됩니다.
+</details>
+<entities>
+전기작업, 감전, 7,000V, 특고압선, 2.5m, 고압전기, 1,000V
+</entities>
+<hypothetical_questions>
+- 고위험 작업에 대한 안전 대책은 무엇이 있을까요?
+- 감전 위험을 줄이기 위해 어떤 추가 교육이 필요할까요?
+</hypothetical_questions></image>

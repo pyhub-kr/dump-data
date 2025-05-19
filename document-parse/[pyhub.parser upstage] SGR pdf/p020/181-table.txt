@@ -1,0 +1,13 @@
+<image name='p020/181-table.jpg'><title>
+2021년도 작업 시 보호자의 역할
+</title>
+<details>
+이 표는 작업환경 점검, 작업자의 행동 관련, 긴급 상황 발생 시 대응, 작업의 원활한 지원 등을 다룹니다. 보호자는 작업자의 안전을 위해 다양한 지원을 제공해야 합니다.
+</details>
+<entities>
+작업환경 점검, 작업자의 행동, 긴급 상황, 작업 지원, 안전
+</entities>
+<hypothetical_questions>
+- 보호자가 작업자의 안전을 보장하기 위해 어떤 구체적인 조치를 취할 수 있을까요?
+- 긴급 상황 발생 시 보호자의 역할은 어떻게 변화할까요?
+</hypothetical_questions></image>

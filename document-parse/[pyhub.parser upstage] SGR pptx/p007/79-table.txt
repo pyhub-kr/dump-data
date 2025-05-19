@@ -1,0 +1,13 @@
+<image name='p007/79-table.jpg'><title>
+전체적 안전대 및 벨트식 안전대 사용 시간 비교
+</title>
+<details>
+전체적 안전대(SKO 사용 중)의 의식 유지 시간은 32분이며, 벨트식 안전대의 의식 유지 시간은 1분 38초입니다. 안전성 측면에서 전체적 안전대는 충격적 분석을 통해 더 높은 안전성을 제공합니다.
+</details>
+<entities>
+전체적 안전대, 벨트식 안전대, 의식 유지 시간, 안전성, 충격적 분석
+</entities>
+<hypothetical_questions>
+- 전체적 안전대의 의식 유지 시간이 긴 이유는 무엇인가요?
+- 벨트식 안전대의 안전성을 개선하기 위한 방법은 무엇일까요?
+</hypothetical_questions></image>

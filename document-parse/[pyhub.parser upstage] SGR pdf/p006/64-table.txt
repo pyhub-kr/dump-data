@@ -1,0 +1,13 @@
+<image name='p006/64-table.jpg'><title>
+안전 인준 대책 목록
+</title>
+<details>
+이 표는 12종의 안전 인준 대책을 나열하고 있습니다. 각 대책은 안전모, 안전화, 보호장구, 방진마스크 등으로 구성되어 있으며, 사용 목적과 관련된 설명이 포함되어 있습니다.
+</details>
+<entities>
+안전모, 안전화, 보호장구, 방진마스크, 송기마스크, 안전점검, 보호구 종류
+</entities>
+<hypothetical_questions>
+- 각 안전 인준 대책의 효과를 어떻게 평가할 수 있을까요?
+- 특정 작업 환경에서 어떤 대책이 가장 효과적일까요?
+</hypothetical_questions></image>

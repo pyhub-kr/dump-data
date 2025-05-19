@@ -1,0 +1,13 @@
+<image name='p020/316-table.jpg'><title>
+산소 및 탄산가스의 적정 공기 기준
+</title>
+<details>
+이 표는 산소와 탄산가스의 적정 공기 기준을 나타냅니다. 산소는 18% 이상 23.5% 미만이어야 하며, 탄산가스는 1.5% 미만이어야 합니다. 또한, 일산화탄소는 30ppm 미만, 황화수소는 10ppm 미만으로 유지해야 합니다.
+</details>
+<entities>
+산소, 탄산가스, 일산화탄소, 황화수소, 적정 공기 기준, ppm
+</entities>
+<hypothetical_questions>
+- 이러한 가스 농도가 인체 건강에 미치는 영향은 무엇인가요?
+- 적정 공기 기준을 초과할 경우 어떤 조치를 취해야 할까요?
+</hypothetical_questions></image>

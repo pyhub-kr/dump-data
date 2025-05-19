@@ -1,0 +1,13 @@
+<image name='p011/27-table.jpg'><title>
+작업 위험 요소 및 안전 작업 방법
+</title>
+<details>
+이 표는 작업 내용, 위험 요소 및 안전 작업 방법에 대한 정보를 제공합니다. 각 항목은 구체적인 작업과 관련된 위험을 식별하고 이를 안전하게 수행하기 위한 방법을 제시합니다.
+</details>
+<entities>
+작업 내용, 위험 요소, 안전 작업 방법
+</entities>
+<hypothetical_questions>
+- 특정 작업에서 식별된 위험 요소는 무엇이며, 이를 줄이기 위한 효과적인 방법은 무엇인가?
+- 안전 작업 방법이 실제 작업 환경에서 얼마나 잘 적용되고 있는가?
+</hypothetical_questions></image>

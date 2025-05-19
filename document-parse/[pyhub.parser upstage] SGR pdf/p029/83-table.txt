@@ -1,0 +1,16 @@
+<image name='p029/83-table.jpg'><title>
+AI 발생 기준 및 대응 관리 체계
+</title>
+<details>
+이 표는 AI 발생 기준에 따른 대응 관리 체계를 보여줍니다. 
+- VOC 1021 이상 발생 시: 기기 수 50대 이상, SKO 전자기기 관리 가능.
+- VOC 5021 이상 발생 시: 기기 수 200대 이상, Site All Down 60% 이상.
+- VOC 1041 이상 발생 시: 기기 수 50대 이상, SKT 전자기기 관리 가능.
+</details>
+<entities>
+VOC, 기기 수, SKO 전자기기, Site All Down, SKT 전자기기
+</entities>
+<hypothetical_questions>
+- AI 발생 기준이 높아질 경우, 대응 체계는 어떻게 변화할까요?
+- 기기 수가 증가함에 따라 관리 체계의 효율성은 어떻게 달라질까요?
+</hypothetical_questions></image>

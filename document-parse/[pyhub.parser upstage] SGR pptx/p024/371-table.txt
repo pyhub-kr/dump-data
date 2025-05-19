@@ -1,0 +1,15 @@
+<image name='p024/371-table.jpg'><title>
+온도에 따른 관리 요령
+</title>
+<details>
+이 표는 온도에 따른 관리 요령을 설명합니다. 
+- -12°C 이하: 주요 RM 관리 지침이 필요하며, 작업에서 요구될 수 있습니다.
+- -15°C 이하: Critical RM 관리가 필요하며, 특정 조건에서 주의가 요구됩니다.
+</details>
+<entities>
+온도, -12°C, -15°C, RM 관리, 주요 RM, Critical RM
+</entities>
+<hypothetical_questions>
+- 온도 변화가 RM 관리에 미치는 영향은 무엇인가요?
+- -15°C 이하의 조건에서 추가적인 안전 조치가 필요한 이유는 무엇인가요?
+</hypothetical_questions></image>

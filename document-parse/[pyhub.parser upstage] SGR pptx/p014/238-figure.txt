@@ -1,0 +1,4 @@
+<image name='p014/238-figure.jpg'><title>도로 안전 구역 설정</title>
+<details>도로의 안전 구역을 설정하기 위해 교통 차단봉과 표지판이 설치되어 있는 모습입니다. 도로의 한쪽에 차량이 지나가고 있으며, 주변 환경은 도시 지역으로 보입니다.</details>
+<entities>교통 차단봉, 안전 구역 표지판, 도로, 차량, 도시 환경</entities>
+<hypothetical_questions>이 안전 구역 설정이 교통 사고 예방에 얼마나 효과적일까요? 다른 지역에서도 유사한 안전 구역 설정이 필요할까요? 이러한 조치가 지역 주민들에게 어떤 영향을 미칠까요?</hypothetical_questions></image>

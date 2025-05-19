@@ -1,0 +1,13 @@
+<image name='p011/143-table.jpg'><title>
+수급인 및 작상자 정보
+</title>
+<details>
+표는 수급인과 작상자에 대한 정보를 제공합니다. 수급인은 '김모자'와 '수급인 사인(인)'으로, 작상자는 '작상자'와 '수급인 달성자(인)'으로 구분됩니다.
+</details>
+<entities>
+수급인, 작상자, 김모자, 수급인 사인, 수급인 달성자
+</entities>
+<hypothetical_questions>
+- 수급인과 작상자의 역할은 프로젝트 성공에 어떤 영향을 미칠까요?
+- 수급인 사인과 수급인 달성자의 차이는 무엇인가요?
+</hypothetical_questions></image>

@@ -1,0 +1,4 @@
+<image name='p013/221-figure.jpg'><title>스카이형 리프트</title>
+<details>이 이미지는 스카이형 리프트를 보여줍니다. 이 장비는 높은 곳에서 작업을 수행하기 위해 사용되며, 차량에 장착되어 이동이 가능합니다.</details>
+<entities>스카이형 리프트, 차량, 작업 플랫폼</entities>
+<hypothetical_questions>이 리프트는 어떤 종류의 작업에 가장 적합할까요? 이 장비의 안전성을 어떻게 개선할 수 있을까요? 다양한 산업에서 이 리프트의 활용 가능성은 어떤가요?</hypothetical_questions></image>

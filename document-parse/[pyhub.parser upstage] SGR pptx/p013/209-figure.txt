@@ -1,0 +1,4 @@
+<image name='p013/209-figure.jpg'><title>작업용 발판</title>
+<details>이 이미지는 작업용 발판을 보여줍니다. 발판은 안전한 작업을 위해 높이가 조절 가능하며, 난간이 있어 사용자가 안전하게 작업할 수 있도록 설계되었습니다.</details>
+<entities>발판, 난간, 조절 가능한 다리</entities>
+<hypothetical_questions>이 발판은 어떤 작업 환경에서 가장 유용할까요? 사용자가 발판을 사용할 때 안전을 보장하기 위해 어떤 추가 장치가 필요할까요?</hypothetical_questions></image>

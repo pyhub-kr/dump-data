@@ -1,0 +1,13 @@
+<image name='p001/03-table.jpg'><title>
+개정 사항 및 내용 목록
+</title>
+<details>
+이 표는 다양한 개정 사항과 그에 대한 세부 정보를 나열하고 있습니다. 총 10개의 개정 항목이 있으며, 각 항목은 개정 번호, 내용, 담당 부서, 담당자, 개정일로 구성되어 있습니다. 가장 최근의 개정일은 2024년 9월 13일입니다.
+</details>
+<entities>
+개정 번호, 개정 항목, 담당 부서, 담당자, 개정일
+</entities>
+<hypothetical_questions>
+- 각 개정 사항이 조직의 운영에 미치는 영향은 무엇일까요?
+- 향후 개정 사항이 추가될 가능성은 얼마나 될까요?
+</hypothetical_questions></image>

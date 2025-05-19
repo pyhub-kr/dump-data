@@ -1,0 +1,4 @@
+<image name='p013/71-figure.jpg'><title>작업 중인 사다리와 장비</title>
+<details>이미지에는 사다리 위에서 작업 중인 사람과 주변의 장비가 보입니다. 사다리는 바닥에 안정적으로 놓여 있으며, 주변은 깔끔하게 정리되어 있습니다.</details>
+<entities>사다리, 전선, 장비, 작업자</entities>
+<hypothetical_questions>이 작업자는 어떤 종류의 작업을 수행하고 있을까요? 사다리 사용 시 안전을 위해 어떤 조치를 취해야 할까요? 이 공간은 어떤 용도로 사용되는 장소일까요?</hypothetical_questions></image>

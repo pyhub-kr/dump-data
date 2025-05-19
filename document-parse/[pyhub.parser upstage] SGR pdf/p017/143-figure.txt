@@ -1,0 +1,4 @@
+<image name='p017/143-figure.jpg'><title>도로 안전 안내</title>
+<details>도로 작업 구역에서 안전을 안내하는 작업자와 관련된 경고 표지판이 보입니다. 작업자는 안전 구역에 위치하고 있으며, 교통 통제를 위해 깃발을 들고 있습니다.</details>
+<entities>작업자, 안전 표지판, 도로, 교통 깃발, 안전 구역</entities>
+<hypothetical_questions>이런 안전 안내가 교통 사고를 줄이는 데 얼마나 효과적일까요? 작업자들이 더 많은 안전 장비를 착용하면 어떤 변화가 있을까요? 도로 작업 중 운전자의 행동을 개선하기 위한 추가적인 방법은 무엇일까요?</hypothetical_questions></image>

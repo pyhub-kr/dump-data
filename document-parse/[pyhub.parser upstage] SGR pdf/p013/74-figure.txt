@@ -1,0 +1,4 @@
+<image name='p013/74-figure.jpg'><title>스카이형 크레인</title>
+<details>이 이미지는 스카이형 크레인의 사진으로, 높은 곳에서 작업을 수행할 수 있는 장비입니다. 크레인은 차량에 장착되어 있으며, 긴 팔을 통해 작업 플랫폼을 높이 올릴 수 있습니다.</details>
+<entities>스카이형 크레인, 차량, 작업 플랫폼</entities>
+<hypothetical_questions>이 크레인은 어떤 종류의 작업에 가장 적합할까요? 스카이형 크레인의 안전성을 높이기 위한 추가적인 장치가 필요할까요? 이 장비의 사용이 환경에 미치는 영향은 무엇일까요?</hypothetical_questions></image>

@@ -1,0 +1,18 @@
+<image name='p005/38-table.jpg'><title>
+위험 평가 점수 기준
+</title>
+<details>
+이 표는 다양한 위험 요소에 대한 점수 기준을 제시합니다. 
+- 3개 미만 취업 시 -1점
+- 3개 이상 중재재해 시 -2점
+- 중재재해 발생 시 -5점
+- 사랑 사고 발생 시 -10점
+- SGR 위반 시 최대 -10점
+</details>
+<entities>
+위험 요소, 점수, SGR, 중재재해, 사랑 사고
+</entities>
+<hypothetical_questions>
+- 각 위험 요소의 점수가 전체 평가에 미치는 영향은 무엇인가?
+- SGR 위반이 발생할 경우, 기업의 대응 전략은 어떻게 설정해야 할까?
+</hypothetical_questions></image>

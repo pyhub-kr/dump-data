@@ -1,0 +1,13 @@
+<image name='p002/11-table.jpg'><title>
+SGR 위반 및 초과에 대한 분류
+</title>
+<details>
+이 표는 SGR 위반의 세 가지 단계(SGR1회, SGR2회, SGR3회)와 BPAS의 제재 조치를 요약합니다. SGR1회 및 SGR2회 위반 시 서면 경고가 발부되며, SGR3회 위반 시에는 거래 제한이 적용됩니다. BPAS의 경우, 제재 조치는 기한 내에 이루어져야 하며, SGR3회 초과 시 6개월에서 1년 이상의 제재가 필요합니다.
+</details>
+<entities>
+SGR1회 위반, SGR2회 위반, SGR3회 위반, 서면 경고, 거래 제한, BPAS, 제재 조치, 기한
+</entities>
+<hypothetical_questions>
+- SGR 위반이 반복될 경우, 기업의 신뢰도에 어떤 영향을 미칠까요?
+- 제재 조치가 기업의 운영에 미치는 장기적인 영향은 무엇일까요?
+</hypothetical_questions></image>

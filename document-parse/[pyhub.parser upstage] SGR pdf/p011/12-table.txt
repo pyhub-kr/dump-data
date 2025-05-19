@@ -1,0 +1,13 @@
+<image name='p011/12-table.jpg'><title>
+작업 정보 및 요구 사항
+</title>
+<details>
+이 표는 특정 작업에 대한 정보와 요구 사항을 나타냅니다. 작업 기간은 2023년 5월 24일부터 시작되며, 작업 종료일은 2023년 5월 25일입니다. 작업의 최대 중량은 000kg으로 기재되어 있습니다.
+</details>
+<entities>
+작업형식, 작업 기간, 시작일, 종료일, 최대 중량, 작업 대상
+</entities>
+<hypothetical_questions>
+- 이 작업의 최대 중량이 변경될 경우, 작업의 안전성에 어떤 영향을 미칠까요?
+- 작업 기간이 연장될 경우, 추가 비용은 어떻게 발생할까요?
+</hypothetical_questions></image>

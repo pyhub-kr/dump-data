@@ -1,0 +1,13 @@
+<image name='p011/160-table.jpg'><title>
+작업 안전 관리 계획
+</title>
+<details>
+이 표는 작업 내용, 위험 요소 및 안전 작업 방법에 대한 정보를 포함하고 있습니다. 각 항목은 안전 관리의 중요성을 강조하고 있습니다.
+</details>
+<entities>
+작업 내용, 위험 요소, 안전 작업 방법
+</entities>
+<hypothetical_questions>
+- 각 작업의 위험 요소를 줄이기 위해 어떤 추가적인 안전 조치를 고려할 수 있을까요?
+- 안전 작업 방법의 효과성을 어떻게 평가할 수 있을까요?
+</hypothetical_questions></image>

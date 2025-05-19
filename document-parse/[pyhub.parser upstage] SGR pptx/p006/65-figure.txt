@@ -1,0 +1,4 @@
+<image name='p006/65-figure.jpg'><title>안전 장비 및 구조물 설명</title>
+<details>이미지 왼쪽에는 작업자가 기둥 위에서 작업하는 모습이 보이며, 오른쪽에는 안전 하네스의 구조와 주요 부품이 설명되어 있습니다. A, B, C는 각각 특정 부위를 나타내고 있습니다.</details>
+<entities>작업자, 기둥, 안전 하네스, D링, 카라비너</entities>
+<hypothetical_questions>1. 이 안전 장비는 어떤 상황에서 가장 효과적으로 사용될 수 있을까? 2. 작업자가 기둥에서 안전하게 작업하기 위해 추가적으로 어떤 장비가 필요할까? 3. 이러한 안전 장비의 사용이 작업자의 사고를 얼마나 줄일 수 있을까?</hypothetical_questions></image>

@@ -1,0 +1,4 @@
+<image name='p013/220-figure.jpg'><title>리프트 기계</title>
+<details>이 이미지는 시저형 리프트 기계를 보여줍니다. 이 기계는 높은 곳에서 작업을 수행하기 위해 사용되며, 수직으로 상승하는 구조를 가지고 있습니다.</details>
+<entities>시저형 리프트, 작업 플랫폼, 이동식 기계</entities>
+<hypothetical_questions>이 리프트 기계는 어떤 산업에서 가장 많이 사용될까요? 안전성을 높이기 위해 어떤 기술이 추가될 수 있을까요? 리프트 기계의 발전이 작업 효율성에 미치는 영향은 무엇일까요?</hypothetical_questions></image>

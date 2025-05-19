@@ -1,0 +1,13 @@
+<image name='p020/167-table.jpg'><title>
+대기 오염물질의 적정 공기 기준
+</title>
+<details>
+이 표는 대기 중 오염물질의 적정 공기 기준을 나타냅니다. 산소의 경우 18% 이상 23.5% 미만, 탄산가스는 1.5% 미만으로 설정되어 있습니다. 일산화탄소는 30ppm 미만, 황화수소는 10ppm 미만으로 규정되어 있습니다.
+</details>
+<entities>
+산소, 탄산가스, 일산화탄소, 황화수소, 적정 공기 기준, ppm
+</entities>
+<hypothetical_questions>
+- 이러한 적정 공기 기준이 환경 건강에 미치는 영향은 무엇인가요?
+- 오염물질 농도가 기준치를 초과할 경우 어떤 조치를 취해야 할까요?
+</hypothetical_questions></image>

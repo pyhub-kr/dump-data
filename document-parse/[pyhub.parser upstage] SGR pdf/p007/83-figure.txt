@@ -1,0 +1,4 @@
+<image name='p007/83-figure.jpg'><title>안전한 사다리 사용 지침</title>
+<details>사다리를 사용할 때 안전 장비를 착용하고, 미끄러짐을 방지하기 위한 주의사항을 강조합니다. 고정식 사다리와 전주 사다리 각각의 안전 수칙이 설명되어 있습니다.</details>
+<entities>사다리, 안전 장비, 카라비너, 안전벨트</entities>
+<hypothetical_questions>사다리를 사용할 때 어떤 추가 안전 장비가 필요할까요? 사다리 사용 중 사고를 예방하기 위한 교육은 어떻게 이루어져야 할까요?</hypothetical_questions></image>

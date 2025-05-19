@@ -1,0 +1,13 @@
+<image name='p004/32-table.jpg'><title>
+작업 등급 및 안전 조건 분석
+</title>
+<details>
+이 표는 작업 등급과 관련된 안전 조건 및 사업장 정보를 제공합니다. SGR 항목의 경우, 등급 S는 4, C4는 3, C3는 2, C2는 1, C1은 0.5의 값을 가집니다. 안전 조건은 -1, -4, -3, -2, -1, 0.5의 값을 가지며, 사업장은 0.5, 2, 1.5, 1, 0.5, 0.25의 값을 나타냅니다.
+</details>
+<entities>
+작업 등급, S, C4, C3, C2, C1, 안전 조건, 사업장, SGR
+</entities>
+<hypothetical_questions>
+- 작업 등급이 안전 조건에 미치는 영향은 무엇인가요?
+- 사업장별로 작업 등급이 어떻게 다르게 나타날 수 있을까요?
+</hypothetical_questions></image>

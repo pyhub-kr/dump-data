@@ -1,0 +1,4 @@
+<image name='p012/182-figure.jpg'><title>다양한 사다리 모델</title>
+<details>이 이미지는 여러 종류의 사다리를 보여줍니다. 각 사다리는 다른 디자인과 기능을 가지고 있으며, 다양한 작업에 적합합니다.</details>
+<entities>사다리 A형, 사다리 H형, 멀티 기능 사다리</entities>
+<hypothetical_questions>이러한 사다리들은 어떤 작업에 가장 적합할까요? 각 사다리의 안전성은 어떻게 평가할 수 있을까요? 사용자의 필요에 따라 어떤 사다리를 선택해야 할까요?</hypothetical_questions></image>

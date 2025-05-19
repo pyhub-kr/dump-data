@@ -1,0 +1,4 @@
+<image name='p020/176-figure.jpg'><title>위험 경고 표지판</title>
+<details>이 표지판은 특정 구역에 대한 출입 금지와 위험성을 경고하는 내용으로, 안전을 위한 지침이 포함되어 있습니다. 출입 전 주의사항과 작업 관련 정보가 명시되어 있습니다.</details>
+<entities>위험 경고, 출입 금지, 작업 안전, 구조작업, 유해가스</entities>
+<hypothetical_questions>이 표지판이 설치된 장소는 어떤 종류의 작업이 이루어지는 곳일까? 출입 금지 조치가 효과적으로 지켜지지 않는 경우 어떤 사고가 발생할 수 있을까?</hypothetical_questions></image>

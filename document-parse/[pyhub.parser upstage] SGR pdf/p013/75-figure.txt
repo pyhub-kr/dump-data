@@ -1,0 +1,4 @@
+<image name='p013/75-figure.jpg'><title>버킷 트럭</title>
+<details>이 이미지는 버킷형 트럭을 보여줍니다. 이 차량은 높은 곳에서 작업을 수행할 수 있도록 설계된 장비를 갖추고 있습니다.</details>
+<entities>버킷 트럭, 작업 장비, 차량</entities>
+<hypothetical_questions>이러한 트럭은 어떤 종류의 작업에 주로 사용될까요? 버킷 트럭의 안전성을 높이기 위해 어떤 기술이 필요할까요? 이 차량의 유지보수는 어떻게 이루어질까요?</hypothetical_questions></image>

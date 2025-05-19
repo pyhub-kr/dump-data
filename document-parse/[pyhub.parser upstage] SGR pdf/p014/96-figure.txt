@@ -1,0 +1,4 @@
+<image name='p014/96-figure.jpg'><title>전신주와 변압기</title>
+<details>전신주에 설치된 변압기가 보이며, 주위에 전선이 연결되어 있습니다. 변압기에는 경고 표지가 부착되어 있습니다.</details>
+<entities>전신주, 변압기, 전선, 경고 표지</entities>
+<hypothetical_questions>이 변압기의 안전성을 높이기 위해 어떤 추가 조치를 취할 수 있을까요? 변압기 주변의 안전 규정은 어떻게 설정되어 있나요? 전력 공급 중단 시 이 변압기가 미치는 영향은 무엇일까요?</hypothetical_questions></image>

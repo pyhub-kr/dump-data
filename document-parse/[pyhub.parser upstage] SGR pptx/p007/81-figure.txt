@@ -1,0 +1,4 @@
+<image name='p007/81-figure.jpg'><title>고소작업 안전 수칙 안내</title>
+<details>고소작업 시 안전 장비를 착용하고, 안전한 방법으로 작업을 수행하여 사고를 예방하는 방법을 설명하고 있습니다. 왼쪽 이미지는 안전벨트 착용을 강조하고, 오른쪽 이미지는 전선 작업 시 주의사항을 안내합니다.</details>
+<entities>안전벨트, 안전고리, 전선, 고소작업, 안전사고 예방</entities>
+<hypothetical_questions>고소작업 시 안전 장비를 착용하지 않으면 어떤 위험이 있을까? 전선 작업 시 추가적으로 어떤 안전 조치를 취해야 할까?</hypothetical_questions></image>

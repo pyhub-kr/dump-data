@@ -1,0 +1,13 @@
+<image name='p020/321-table.jpg'><title>
+위험 작업 및 고위험 작업 유형
+</title>
+<details>
+이 표는 위험 작업과 고위험 작업의 유형을 나타냅니다. 위험 작업으로는 깊이가 2.5m 이상인 작업이 있으며, 고위험 작업은 터널 및 지하 작업 등 안전한 공간이 없는 작업입니다.
+</details>
+<entities>
+위험 작업, 고위험 작업, 깊이 2.5m, 터널, 지하 작업
+</entities>
+<hypothetical_questions>
+- 깊이 2.5m 이상의 작업에서 발생할 수 있는 위험 요소는 무엇인가요?
+- 고위험 작업을 수행할 때 안전성을 높이기 위한 방안은 무엇일까요?
+</hypothetical_questions></image>
