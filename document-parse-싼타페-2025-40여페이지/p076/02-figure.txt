@@ -1,0 +1,4 @@
+<image name='p076/02-figure.jpg'><title>자동차 내부 안전 시스템</title>
+<details>이 이미지는 자동차 내부의 안전 기능을 보여줍니다. 상단에는 안전벨트와 관련된 표시가 있으며, 하단에는 에어백 시스템이 탑재된 모습이 나타나 있습니다.</details>
+<entities>자동차, 안전벨트, 에어백, 인형(안전성 테스트용)</entities>
+<hypothetical_questions>1. 자동차 안전 시스템의 발전이 사고 발생 시 생존율에 어떤 영향을 미칠까요? 2. 에어백 시스템이 없는 차량과 있는 차량의 안전성 차이는 무엇인가요? 3. 향후 자동차 안전 기술이 어떻게 변화할 것으로 예상되나요?</hypothetical_questions></image>

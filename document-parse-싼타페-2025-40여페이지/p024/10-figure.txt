@@ -1,0 +1,4 @@
+<image name='p024/10-figure.jpg'><title>자동차 좌석 조정 방법</title>
+<details>이 이미지는 자동차 좌석의 조정 방법을 설명하고 있습니다. 좌석의 다양한 조정 기능이 번호로 표시되어 있으며, 각 기능의 작동 방식이 그림으로 나타나 있습니다.</details>
+<entities>자동차 좌석, 조정 레버, 조정 기능</entities>
+<hypothetical_questions>좌석 조정 기능이 운전자의 편안함에 미치는 영향은 무엇일까요? 다양한 조정 기능이 안전성에 어떤 기여를 할 수 있을까요?</hypothetical_questions></image>

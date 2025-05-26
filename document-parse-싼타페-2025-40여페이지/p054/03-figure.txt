@@ -1,0 +1,4 @@
+<image name='p054/03-figure.jpg'><title>차량 내 아동용 안전좌석</title>
+<details>이 이미지는 차량의 뒷좌석에 설치된 아동용 안전좌석을 보여줍니다. 안전좌석에는 아동을 안전하게 고정할 수 있는 벨트가 장착되어 있습니다.</details>
+<entities>아동용 안전좌석, 차량 뒷좌석</entities>
+<hypothetical_questions>1. 아동용 안전좌석의 안전성을 높이기 위한 추가 기능은 무엇일까요? 2. 다양한 연령대에 맞는 안전좌석의 디자인은 어떻게 변화해야 할까요? 3. 차량 내 아동 안전을 위한 교육 프로그램은 어떤 내용이 포함되어야 할까요?</hypothetical_questions></image>

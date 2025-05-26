@@ -1,0 +1,4 @@
+<image name='p039/05-figure.jpg'><title>자동차 대시보드 조작 패널</title>
+<details>이 이미지는 자동차 대시보드의 조작 패널을 보여줍니다. 두 개의 원형 버튼과 여러 개의 조작 버튼이 있으며, 하단에는 터치 또는 버튼 조작을 위한 아이콘이 있습니다.</details>
+<entities>자동차 대시보드, 조작 버튼, 터치 아이콘</entities>
+<hypothetical_questions>이 조작 패널은 어떤 기능을 제공할까요? 사용자가 이 패널을 통해 어떤 정보를 쉽게 얻을 수 있을까요? 이 디자인이 운전 중 안전성에 미치는 영향은 무엇일까요?</hypothetical_questions></image>

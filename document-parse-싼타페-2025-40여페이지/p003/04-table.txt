@@ -1,0 +1,13 @@
+<image name='p003/04-table.jpg'><title>
+주행 전 좌석의 위치 및 조정 안내
+</title>
+<details>
+주행 전 좌석의 위치, 각도, 높낮이 등을 조절하여 올바른 운전 자세를 유지하도록 안내합니다.
+</details>
+<entities>
+주행 전 좌석, 위치, 각도, 높낮이, 운전 자세
+</entities>
+<hypothetical_questions>
+- 올바른 운전 자세를 유지하기 위해 좌석 조정 외에 어떤 요소가 중요할까요?
+- 좌석 조정이 운전자의 안전에 미치는 영향은 무엇인가요?
+</hypothetical_questions></image>

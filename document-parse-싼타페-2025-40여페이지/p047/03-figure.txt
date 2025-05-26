@@ -1,0 +1,4 @@
+<image name='p047/03-figure.jpg'><title>자동차 좌석 안전벨트 안내</title>
+<details>이 이미지는 5인승, 6인승, 7인승 자동차의 좌석 안전벨트 위치를 보여줍니다. 각 좌석에 번호가 매겨져 있으며, 안전벨트 착용을 강조하는 아이콘이 포함되어 있습니다.</details>
+<entities>자동차, 좌석, 안전벨트, 아이콘</entities>
+<hypothetical_questions>이 안전벨트 안내가 실제 사고 예방에 얼마나 효과적일까? 다양한 차량 모델에 따라 안전벨트 위치가 달라지는 이유는 무엇일까?</hypothetical_questions></image>

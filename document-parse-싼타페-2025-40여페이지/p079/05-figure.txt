@@ -1,0 +1,4 @@
+<image name='p079/05-figure.jpg'><title>자동차 충돌 경고 시스템</title>
+<details>이 이미지는 자동차 충돌 경고 시스템을 보여줍니다. 흰색 SUV가 다른 차량에 충돌하는 상황을 나타내며, 상단의 작은 화면에는 운전자의 모습이 보입니다.</details>
+<entities>흰색 SUV, 다른 차량, 운전대, 충돌 경고 시스템</entities>
+<hypothetical_questions>이 시스템이 실제로 사고를 줄이는 데 얼마나 효과적일까요? 충돌 경고 시스템이 없는 차량과 비교했을 때, 안전성은 어떻게 달라질까요?</hypothetical_questions></image>

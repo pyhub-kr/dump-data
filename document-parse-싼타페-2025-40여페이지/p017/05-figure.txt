@@ -1,0 +1,4 @@
+<image name='p017/05-figure.jpg'><title>설정 메뉴 화면</title>
+<details>이 이미지는 설정 메뉴의 일부로 보이며, 여러 옵션이 나열되어 있습니다. '시스템 파라미터 반영'과 '스마트 시트'와 관련된 설정이 포함되어 있습니다. 하단에는 '예고된 옵션 시트'에 대한 설명이 있습니다.</details>
+<entities>설정 메뉴, 시스템 파라미터, 스마트 시트, 예고된 옵션 시트</entities>
+<hypothetical_questions>이 설정이 사용자 경험에 어떤 영향을 미칠까요? '스마트 시트' 기능은 어떤 상황에서 유용할까요? 사용자가 이 설정을 변경했을 때 예상되는 결과는 무엇일까요?</hypothetical_questions></image>

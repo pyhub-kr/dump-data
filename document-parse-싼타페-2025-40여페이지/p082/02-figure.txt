@@ -1,0 +1,4 @@
+<image name='p082/02-figure.jpg'><title>차량 충돌 경고 이미지</title>
+<details>이 이미지는 흰색 SUV 차량이 대형 트럭의 후면에 충돌하는 상황을 나타냅니다. 충돌 지점에서 폭발 효과가 강조되어 있습니다.</details>
+<entities>흰색 SUV, 대형 트럭, 충돌 효과</entities>
+<hypothetical_questions>이런 사고를 예방하기 위해 어떤 안전 장치가 필요할까요? 충돌 시 승객의 안전을 보장하기 위해 어떤 조치를 취해야 할까요?</hypothetical_questions></image>

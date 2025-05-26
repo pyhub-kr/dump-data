@@ -1,0 +1,4 @@
+<image name='p036/05-figure.jpg'><title>차량 뒷좌석 폴딩 안내</title>
+<details>이 이미지는 차량의 뒷좌석을 폴딩하는 방법을 설명하고 있습니다. 좌석 뒤쪽에 있는 레버와 도구를 사용하여 좌석을 쉽게 접을 수 있도록 안내하고 있습니다.</details>
+<entities>차량, 뒷좌석, 레버, 도구</entities>
+<hypothetical_questions>1. 차량 뒷좌석을 폴딩하는 기능이 어떤 상황에서 유용할까요? 2. 이 기능이 없는 차량과 있는 차량의 장단점은 무엇일까요? 3. 뒷좌석을 폴딩할 때 안전을 위해 고려해야 할 사항은 무엇인가요?</hypothetical_questions></image>

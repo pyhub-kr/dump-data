@@ -1,0 +1,4 @@
+<image name='p077/02-figure.jpg'><title>차량 내 안전 경고</title>
+<details>이 이미지는 차량 뒷좌석에 앉아 있는 인체 모형과 함께 "금지" 기호가 표시되어 있습니다. 이는 특정 행동이 안전하지 않음을 경고하는 메시지를 전달합니다.</details>
+<entities>인체 모형, 차량 뒷좌석, 금지 기호</entities>
+<hypothetical_questions>1. 이 경고는 어떤 특정 행동을 금지하는 것일까? 2. 차량 안전을 위해 어떤 추가 조치를 취할 수 있을까? 3. 이러한 경고가 실제 사고 예방에 얼마나 효과적일까?</hypothetical_questions></image>

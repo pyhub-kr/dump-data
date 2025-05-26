@@ -1,0 +1,4 @@
+<image name='p010/08-figure.jpg'><title>자동차 시트 조정 기능</title>
+<details>이 이미지는 자동차 시트의 조정 기능을 설명하고 있습니다. 왼쪽에는 시트의 전체 모습이, 오른쪽에는 조정 레버와 그 기능이 나타나 있습니다. 레버는 시트를 앞뒤로 조정하는 데 사용됩니다.</details>
+<entities>자동차 시트, 조정 레버</entities>
+<hypothetical_questions>1. 자동차 시트 조정 기능이 운전자의 편안함에 미치는 영향은 무엇일까요? 2. 다양한 시트 조정 기능이 안전성에 어떻게 기여할 수 있을까요? 3. 시트 조정 기능이 장애인을 위한 차량 설계에 어떤 역할을 할 수 있을까요?</hypothetical_questions></image>

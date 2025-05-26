@@ -1,0 +1,4 @@
+<image name='p072/06-figure.jpg'><title>자동차 좌석 안전 경고</title>
+<details>이 이미지는 자동차 좌석에 앉아 있는 사람의 실루엣과 함께 좌석을 눕히지 말라는 경고 기호가 포함되어 있습니다. 이는 안전을 위한 지침으로, 사고 발생 시 부상의 위험을 줄이기 위한 것입니다.</details>
+<entities>자동차 좌석, 경고 기호, 인체 실루엣</entities>
+<hypothetical_questions>좌석을 눕히지 말라는 경고는 어떤 상황에서 가장 중요할까요? 이러한 안전 지침을 준수하지 않았을 때의 잠재적 결과는 무엇일까요? 자동차 제조사들은 이러한 경고를 어떻게 더 효과적으로 전달할 수 있을까요?</hypothetical_questions></image>

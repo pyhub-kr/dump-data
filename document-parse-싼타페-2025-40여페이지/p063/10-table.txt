@@ -1,0 +1,13 @@
+<image name='p063/10-table.jpg'><title>
+안전벨트와 함께 작동되는 기능 설명
+</title>
+<details>
+이 내용은 안전벨트와 함께 작동되는 기능에 대한 설명입니다. 이 기능은 차량의 충돌 및 전복 시 탑승자를 보호하는 역할을 합니다.
+</details>
+<entities>
+안전벨트, 충돌, 전복, 탑승자 보호
+</entities>
+<hypothetical_questions>
+- 이 기능이 탑승자의 안전에 미치는 영향은 무엇인가요?
+- 차량 안전 기술이 발전함에 따라 향후 어떤 추가 기능이 필요할까요?
+</hypothetical_questions></image>

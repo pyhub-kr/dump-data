@@ -1,0 +1,4 @@
+<image name='p054/02-figure.jpg'><title>자동차 뒷좌석의 유아용 카시트</title>
+<details>자동차 뒷좌석에 설치된 유아용 카시트의 모습으로, 안전을 고려한 디자인이 특징이다. 카시트는 안정적으로 고정되어 있으며, 어린이를 위한 안전 장치가 포함되어 있다.</details>
+<entities>유아용 카시트, 자동차 뒷좌석</entities>
+<hypothetical_questions>1. 유아용 카시트를 설치할 때 가장 중요한 안전 요소는 무엇일까? 2. 다양한 차량 모델에 맞는 카시트의 호환성은 어떻게 보장될 수 있을까? 3. 카시트 사용에 대한 부모들의 인식은 어떻게 변화하고 있을까?</hypothetical_questions></image>

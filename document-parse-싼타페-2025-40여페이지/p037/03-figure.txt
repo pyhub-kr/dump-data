@@ -1,0 +1,4 @@
+<image name='p037/03-figure.jpg'><title>차량의 안전 경고</title>
+<details>이 이미지는 차량의 후면 해치가 열릴 때 발생할 수 있는 위험을 경고하는 내용입니다. 해치가 열리면서 탑승자의 머리에 충격을 줄 수 있는 상황을 나타내고 있습니다.</details>
+<entities>차량, 해치, 탑승자, 안전 경고 기호</entities>
+<hypothetical_questions>1. 차량 해치의 안전 설계는 어떻게 개선될 수 있을까? 2. 탑승자가 이러한 위험을 피하기 위해 어떤 예방 조치를 취할 수 있을까? 3. 이와 유사한 안전 경고는 다른 차량 부품에도 적용될 수 있을까?</hypothetical_questions></image>

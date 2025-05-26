@@ -1,0 +1,4 @@
+<image name='p031/05-figure.jpg'><title>자동차 시트 조정 버튼 설명</title>
+<details>이 이미지는 자동차 시트의 조정 버튼을 보여줍니다. 버튼은 시트의 열선 기능을 활성화하는 것으로 보이며, 시트의 구조와 조정 가능한 부분도 함께 나타나 있습니다.</details>
+<entities>자동차 시트, 열선 버튼, 조정 레버</entities>
+<hypothetical_questions>이 버튼이 있는 자동차 시트는 어떤 추가 기능을 제공할 수 있을까요? 열선 기능이 겨울철 운전에서 얼마나 중요한 역할을 할까요?</hypothetical_questions></image>

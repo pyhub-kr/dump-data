@@ -1,0 +1,4 @@
+<image name='p011/09-figure.jpg'><title>자동차 시트 조정 메커니즘</title>
+<details>이 이미지는 자동차 시트의 조정 메커니즘을 보여줍니다. 왼쪽에는 시트 전체 모습이, 오른쪽에는 조정 손잡이가 강조되어 있습니다. 손잡이를 돌리면 시트의 경사각이 조정됩니다.</details>
+<entities>자동차 시트, 조정 손잡이</entities>
+<hypothetical_questions>이 조정 메커니즘이 운전자의 편안함에 어떤 영향을 미칠까요? 시트 조정 기능이 없는 차량에서는 운전자가 어떤 불편함을 느낄 수 있을까요?</hypothetical_questions></image>

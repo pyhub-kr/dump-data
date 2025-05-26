@@ -1,0 +1,4 @@
+<image name='p066/05-figure.jpg'><title>차량 대시보드의 구성 요소</title>
+<details>이 이미지는 차량 대시보드의 특정 부분을 보여주고 있으며, 특정 기능이나 조작을 나타내는 화살표가 있습니다.</details>
+<entities>차량 대시보드, 조작 버튼, 화살표</entities>
+<hypothetical_questions>이 부분은 어떤 기능을 수행할까요? 이 조작이 차량의 성능에 어떤 영향을 미칠까요? 사용자가 이 기능을 잘 이해하지 못할 경우 어떤 문제가 발생할 수 있을까요?</hypothetical_questions></image>

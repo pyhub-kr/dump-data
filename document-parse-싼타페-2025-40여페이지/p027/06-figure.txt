@@ -1,0 +1,4 @@
+<image name='p027/06-figure.jpg'><title>차량 내부 좌석 배치</title>
+<details>이 이미지는 차량의 내부 좌석 배치를 보여줍니다. 세 가지 다른 좌석 구성 옵션이 나열되어 있으며, 각 구성은 좌석의 수와 배치 방식이 다릅니다.</details>
+<entities>차량, 좌석, 내부 배치</entities>
+<hypothetical_questions>1. 다양한 좌석 배치가 차량의 용도에 어떤 영향을 미칠까요? 2. 각 좌석 구성의 장단점은 무엇일까요? 3. 소비자들은 어떤 기준으로 좌석 배치를 선택할까요?</hypothetical_questions></image>

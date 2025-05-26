@@ -1,0 +1,4 @@
+<image name='p037/07-figure.jpg'><title>차량 내부 버튼 및 조작 패널</title>
+<details>이 이미지는 차량 내부의 버튼 및 조작 패널을 보여줍니다. 왼쪽에는 작은 버튼이 있으며, 오른쪽에는 두 개의 아이콘이 있는 조작 패널이 있습니다. 아이콘은 좌석 조정 기능을 나타내는 것으로 보입니다.</details>
+<entities>차량 내부, 버튼, 조작 패널, 좌석 조정 아이콘</entities>
+<hypothetical_questions>이 버튼은 어떤 기능을 수행할까요? 차량의 좌석 조정 기능이 운전자의 편안함에 어떤 영향을 미칠까요? 이러한 조작 패널의 디자인이 사용자 경험에 어떤 영향을 줄까요?</hypothetical_questions></image>

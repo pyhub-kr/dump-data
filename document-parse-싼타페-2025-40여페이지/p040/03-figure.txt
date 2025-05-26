@@ -1,0 +1,4 @@
+<image name='p040/03-figure.jpg'><title>차량 도어 잠금 스위치</title>
+<details>이 이미지는 차량의 도어 잠금 스위치를 보여줍니다. 스위치는 일반적으로 운전석 도어의 중앙 콘솔에 위치하며, 잠금 및 해제 기능을 제공합니다.</details>
+<entities>차량, 도어 잠금 스위치, 중앙 콘솔</entities>
+<hypothetical_questions>이 스위치가 고장 나면 차량의 보안에 어떤 영향을 미칠까요? 도어 잠금 시스템의 기술 발전이 차량 안전에 어떻게 기여할 수 있을까요?</hypothetical_questions></image>

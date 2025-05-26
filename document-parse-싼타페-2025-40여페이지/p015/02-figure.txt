@@ -1,0 +1,4 @@
+<image name='p015/02-figure.jpg'><title>자동차 좌석 조정 방법</title>
+<details>이 이미지는 자동차 좌석의 조정 방법을 설명하고 있습니다. 좌석의 높이와 기울기를 조정하는 두 가지 레버가 표시되어 있습니다.</details>
+<entities>자동차 좌석, 조정 레버</entities>
+<hypothetical_questions>좌석 조정 기능이 운전자의 편안함에 미치는 영향은 무엇일까요? 다양한 체형에 맞춘 좌석 조정 기능이 필요할까요?</hypothetical_questions></image>

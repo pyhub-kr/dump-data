@@ -1,0 +1,4 @@
+<image name='p019/04-figure.jpg'><title>자동차 시트 안전 경고</title>
+<details>이 이미지는 자동차 시트와 관련된 안전 경고를 나타냅니다. 시트의 머리받침 부분에 충격이 가해지는 상황을 경고하며, 특정 행동이 금지됨을 나타내는 기호가 포함되어 있습니다.</details>
+<entities>자동차 시트, 머리받침, 경고 기호</entities>
+<hypothetical_questions>1. 이 경고는 어떤 상황에서 발생할 수 있는가? 2. 머리받침의 안전 기능은 어떻게 작동하는가? 3. 운전 중 안전을 위해 추가적으로 어떤 조치를 취해야 하는가?</hypothetical_questions></image>

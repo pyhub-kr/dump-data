@@ -1,0 +1,4 @@
+<image name='p035/10-figure.jpg'><title>자동차 시트 조정 메커니즘</title>
+<details>이 이미지는 자동차 시트의 조정 방법을 설명하는 다이어그램으로, 시트를 회전시키는 방식이 나타나 있습니다. 왼쪽 상단의 작은 그림은 조정 레버의 위치를 보여줍니다.</details>
+<entities>자동차 시트, 조정 레버</entities>
+<hypothetical_questions>이 조정 메커니즘이 사용자의 편안함에 어떤 영향을 미칠까요? 시트 조정 기능이 없는 차량은 어떤 불편함을 초래할까요?</hypothetical_questions></image>

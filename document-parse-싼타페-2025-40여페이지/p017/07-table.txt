@@ -1,0 +1,13 @@
+<image name='p017/07-table.jpg'><title>
+운전 중 주의사항 경고
+</title>
+<details>
+이 경고는 주행 중에 주의 깊게 운전해야 함을 강조합니다. 주행 중에 주의가 산만해지면 사고 발생 위험이 높아진다는 내용을 담고 있습니다.
+</details>
+<entities>
+주행, 주의, 사고 발생 위험, 운전
+</entities>
+<hypothetical_questions>
+- 주행 중 주의가 산만해지는 주요 원인은 무엇인가요?
+- 사고 발생 위험을 줄이기 위한 효과적인 방법은 무엇일까요?
+</hypothetical_questions></image>

@@ -1,0 +1,13 @@
+<image name='p048/07-table.jpg'><title>
+안전벨트 사용 안내
+</title>
+<details>
+안전벨트가 빠지지 않도록 힘을 주어 벨트를 당긴 후, 다시 당기십시오. 부드럽게 빠집니다.
+</details>
+<entities>
+안전벨트, 힘, 벨트, 당기기, 부드럽게
+</entities>
+<hypothetical_questions>
+- 안전벨트를 제대로 사용하는 것이 사고 예방에 얼마나 기여할까요?
+- 안전벨트 사용에 대한 교육이 필요할까요?
+</hypothetical_questions></image>

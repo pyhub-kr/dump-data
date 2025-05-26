@@ -1,0 +1,4 @@
+<image name='p035/02-figure.jpg'><title>차량 도어 잠금 및 해제 버튼</title>
+<details>이 이미지는 차량의 도어 잠금 및 해제 버튼을 보여줍니다. 버튼은 차량 내부에 위치해 있으며, 도어 잠금을 위한 아이콘이 표시되어 있습니다.</details>
+<entities>차량, 도어 잠금 버튼, 도어 해제 버튼</entities>
+<hypothetical_questions>이 버튼이 차량의 보안 시스템에 어떤 영향을 미칠까요? 차량 소유자가 이 기능을 어떻게 활용할 수 있을까요? 버튼의 위치가 운전자의 편의성에 어떤 영향을 미칠까요?</hypothetical_questions></image>

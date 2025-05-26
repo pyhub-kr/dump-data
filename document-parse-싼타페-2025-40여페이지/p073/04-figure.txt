@@ -1,0 +1,4 @@
+<image name='p073/04-figure.jpg'><title>좌석 안전 경고</title>
+<details>이 이미지는 좌석에 앉아 있는 사람의 모습과 함께 "금지" 기호가 있는 경고를 보여줍니다. 이는 특정 행동이 금지되어 있음을 나타냅니다.</details>
+<entities>사람, 좌석, 금지 기호</entities>
+<hypothetical_questions>이 경고는 어떤 특정 행동을 금지하고 있을까? 이러한 경고가 있는 상황에서 사람들은 어떻게 반응할까? 안전을 위한 경고가 얼마나 효과적일까?</hypothetical_questions></image>

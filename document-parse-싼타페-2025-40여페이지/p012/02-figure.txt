@@ -1,0 +1,4 @@
+<image name='p012/02-figure.jpg'><title>자동차 좌석 조정 기능</title>
+<details>이 이미지는 자동차 좌석의 조정 기능을 설명합니다. 좌석의 높이, 앞뒤, 기울기 조정 방법이 아이콘으로 표시되어 있습니다.</details>
+<entities>자동차 좌석, 조정 레버, 아이콘</entities>
+<hypothetical_questions>이 조정 기능이 운전자의 편안함에 어떤 영향을 미칠까요? 좌석 조정이 안전성에 미치는 영향은 무엇일까요?</hypothetical_questions></image>

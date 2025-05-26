@@ -1,0 +1,4 @@
+<image name='p060/02-figure.jpg'><title>차량 내부 구조 다이어그램</title>
+<details>이 이미지는 차량의 내부 구조를 보여주는 다이어그램으로, 각 부품의 위치와 번호가 표시되어 있습니다. 차량의 좌석 배치와 안전 장치의 배열을 이해하는 데 도움이 됩니다.</details>
+<entities>차량, 좌석, 안전 장치, 다이어그램</entities>
+<hypothetical_questions>이 다이어그램을 통해 차량의 안전성을 어떻게 개선할 수 있을까요? 각 부품의 위치가 승객의 편안함에 어떤 영향을 미칠까요?</hypothetical_questions></image>

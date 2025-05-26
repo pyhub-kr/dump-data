@@ -1,0 +1,4 @@
+<image name='p065/04-figure.jpg'><title>자동차 에어백 시스템 안내</title>
+<details>이 이미지는 자동차의 에어백 시스템에 대한 설명을 포함하고 있습니다. 상단에는 무릎 에어백, 하단에는 운전석 에어백이 표시되어 있습니다. 각 에어백의 위치와 기능을 설명하고 있습니다.</details>
+<entities>자동차, 에어백, 운전석, 무릎 에어백</entities>
+<hypothetical_questions>1. 에어백 시스템이 사고 시 승객의 생명을 얼마나 보호할 수 있을까? 2. 무릎 에어백의 필요성은 무엇인가? 3. 에어백 외에 다른 안전 장치들은 어떤 역할을 할까?</hypothetical_questions></image>

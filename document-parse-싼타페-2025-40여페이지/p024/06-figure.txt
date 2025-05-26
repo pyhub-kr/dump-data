@@ -1,0 +1,4 @@
+<image name='p024/06-figure.jpg'><title>자동차 뒷좌석 조정 방법</title>
+<details>이 이미지는 자동차 뒷좌석의 조정 방법을 설명하고 있습니다. 좌석을 기울이거나 조정하는 방법을 보여주는 두 개의 그림이 포함되어 있습니다.</details>
+<entities>자동차, 뒷좌석, 조정 레버</entities>
+<hypothetical_questions>이 조정 기능이 승객의 편안함에 어떤 영향을 미칠까요? 좌석 조정이 안전성에 미치는 영향은 무엇일까요?</hypothetical_questions></image>

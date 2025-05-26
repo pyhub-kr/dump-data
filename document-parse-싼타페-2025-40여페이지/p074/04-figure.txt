@@ -1,0 +1,4 @@
+<image name='p074/04-figure.jpg'><title>자동차 시트 안전 경고</title>
+<details>이 이미지는 자동차 시트의 디자인을 보여주며, 특정 부분에 대한 사용 금지를 나타내는 기호가 포함되어 있습니다. 이 경고는 해당 부분에 물건을 두지 말라는 의미입니다.</details>
+<entities>자동차 시트, 금지 기호</entities>
+<hypothetical_questions>이 경고가 있는 이유는 무엇일까요? 시트의 특정 부분에 물건을 두지 않으면 어떤 안전 문제가 발생할 수 있을까요? 이러한 경고가 없는 경우, 운전자의 안전에 어떤 영향을 미칠까요?</hypothetical_questions></image>

@@ -1,0 +1,4 @@
+<image name='p074/02-figure.jpg'><title>자동차 좌석 경고 아이콘</title>
+<details>이 이미지는 자동차 좌석의 그림과 함께 금지 기호가 표시되어 있습니다. 이는 특정 행동이나 사용을 금지하는 경고를 나타냅니다.</details>
+<entities>자동차 좌석, 금지 기호</entities>
+<hypothetical_questions>이 경고는 어떤 특정 상황에서 적용될까요? 좌석 사용에 대한 규정이 안전에 미치는 영향은 무엇일까요? 이 경고가 없는 경우 어떤 위험이 발생할 수 있을까요?</hypothetical_questions></image>

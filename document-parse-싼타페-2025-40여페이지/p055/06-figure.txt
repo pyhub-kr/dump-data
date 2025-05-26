@@ -1,0 +1,4 @@
+<image name='p055/06-figure.jpg'><title>어린이 카시트 설치 방법</title>
+<details>이 이미지는 어린이 카시트를 설치하는 방법을 보여줍니다. 손이 카시트의 안전벨트를 잡고 있으며, 벨트를 당기는 방향이 화살표로 표시되어 있습니다.</details>
+<entities>어린이 카시트, 안전벨트, 손</entities>
+<hypothetical_questions>1. 어린이 카시트를 설치할 때 가장 중요한 안전 요소는 무엇인가요? 2. 카시트를 잘못 설치했을 경우 어떤 위험이 있을까요? 3. 다양한 차량 모델에 따라 카시트 설치 방법이 어떻게 달라질까요?</hypothetical_questions></image>

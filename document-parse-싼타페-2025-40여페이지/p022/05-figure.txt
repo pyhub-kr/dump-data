@@ -1,0 +1,4 @@
+<image name='p022/05-figure.jpg'><title>차량 뒷좌석 수납 공간</title>
+<details>차량 뒷좌석의 등받이에 위치한 수납 공간을 보여주는 이미지입니다. 수납 공간은 물건을 보관하기 위한 용도로 설계되었습니다.</details>
+<entities>차량, 뒷좌석, 수납 공간</entities>
+<hypothetical_questions>이 수납 공간에 어떤 물건을 보관할 수 있을까요? 이 공간의 디자인이 차량의 편의성에 어떤 영향을 미칠까요? 다른 차량 모델과 비교했을 때 이 수납 공간의 장단점은 무엇일까요?</hypothetical_questions></image>

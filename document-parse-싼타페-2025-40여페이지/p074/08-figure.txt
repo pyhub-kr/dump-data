@@ -1,0 +1,4 @@
+<image name='p074/08-figure.jpg'><title>자동차 시트 조정 레버</title>
+<details>이 이미지는 자동차 시트의 조정 레버를 보여줍니다. 레버 A와 B는 시트의 각기 다른 조정 기능을 수행하는 것으로 보입니다.</details>
+<entities>자동차 시트, 조정 레버 A, 조정 레버 B</entities>
+<hypothetical_questions>이 조정 레버는 어떤 기능을 수행할까요? 시트 조정이 운전자의 편안함에 미치는 영향은 무엇일까요? 다른 차량 모델에서도 유사한 조정 방식이 사용될까요?</hypothetical_questions></image>

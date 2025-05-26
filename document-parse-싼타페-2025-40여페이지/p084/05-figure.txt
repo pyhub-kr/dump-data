@@ -1,0 +1,4 @@
+<image name='p084/05-figure.jpg'><title>에어백 경고 안내</title>
+<details>이 이미지는 차량 내 에어백 사용에 대한 경고를 나타내고 있습니다. 좌석에 어린이를 태우지 말라는 경고와 에어백 작동 방식을 설명하는 그림이 포함되어 있습니다.</details>
+<entities>에어백, 차량 좌석, 어린이, 안전 안내서</entities>
+<hypothetical_questions>1. 에어백 경고를 무시할 경우 어떤 위험이 있을까요? 2. 어린이를 안전하게 차량에 태우기 위한 다른 방법은 무엇이 있을까요? 3. 에어백의 작동 원리를 이해하면 운전자가 더 안전하게 운전할 수 있을까요?</hypothetical_questions></image>

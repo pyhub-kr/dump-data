@@ -1,0 +1,4 @@
+<image name='p049/06-figure.jpg'><title>안전벨트 착용 방법</title>
+<details>이 이미지는 안전벨트를 착용하는 방법을 설명하고 있습니다. 손이 안전벨트의 잠금 장치를 잡고 있으며, 벨트를 몸에 고정하는 방향을 나타내고 있습니다.</details>
+<entities>안전벨트, 잠금 장치, 인체 모형</entities>
+<hypothetical_questions>1. 안전벨트를 착용하지 않았을 때의 위험은 무엇일까요? 2. 안전벨트 착용 교육이 얼마나 효과적일까요? 3. 다양한 차량에서 안전벨트 착용 방법은 어떻게 다를까요?</hypothetical_questions></image>

@@ -1,0 +1,4 @@
+<image name='p019/07-figure.jpg'><title>헤드레스트 조정 안내</title>
+<details>이 이미지는 자동차 시트의 헤드레스트 조정 방법을 보여줍니다. 화살표가 있는 부분은 헤드레스트를 뒤로 밀어 조정하는 방향을 나타냅니다.</details>
+<entities>헤드레스트, 자동차 시트</entities>
+<hypothetical_questions>헤드레스트 조정이 운전자의 안전에 어떤 영향을 미칠까요? 헤드레스트의 높이를 조정하는 것이 편안함에 어떤 기여를 할 수 있을까요?</hypothetical_questions></image>

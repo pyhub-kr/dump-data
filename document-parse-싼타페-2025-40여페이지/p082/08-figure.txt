@@ -1,0 +1,4 @@
+<image name='p082/08-figure.jpg'><title>차량 충돌 경고 시스템</title>
+<details>이 이미지는 차량이 기둥에 충돌할 위험이 있음을 나타내는 경고 시스템을 보여줍니다. 차량의 측면에 위치한 기둥과 충돌 경고 아이콘이 함께 표시되어 있습니다.</details>
+<entities>차량, 기둥, 충돌 경고 아이콘</entities>
+<hypothetical_questions>이 시스템이 차량의 안전성을 어떻게 향상시킬 수 있을까요? 충돌 경고 시스템이 없는 차량과 있는 차량의 사고율은 어떻게 다를까요?</hypothetical_questions></image>

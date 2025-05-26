@@ -1,0 +1,4 @@
+<image name='p066/06-figure.jpg'><title>자동차 내부의 에어백 시스템</title>
+<details>이 이미지는 자동차 내부에서 에어백이 전개되는 상황을 보여줍니다. 에어백이 운전자의 머리를 보호하기 위해 펼쳐져 있는 모습입니다.</details>
+<entities>자동차, 에어백, 운전석, 대시보드</entities>
+<hypothetical_questions>1. 에어백이 전개될 때 운전자의 안전을 어떻게 보장할 수 있을까? 2. 에어백 시스템의 발전이 자동차 사고 사망률에 미치는 영향은 무엇일까? 3. 다른 안전 장치와 함께 에어백이 어떻게 작동하는지에 대한 연구는 어떤 결과를 가져올까?</hypothetical_questions></image>

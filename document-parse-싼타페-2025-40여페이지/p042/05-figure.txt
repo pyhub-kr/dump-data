@@ -1,0 +1,4 @@
+<image name='p042/05-figure.jpg'><title>차량 대시보드 컨트롤 패널</title>
+<details>이 이미지는 차량의 대시보드 컨트롤 패널을 보여줍니다. 두 개의 원형 다이얼과 여러 개의 버튼이 있으며, 하단에는 추가적인 컨트롤이 위치해 있습니다. 오른쪽 하단에는 경고 아이콘이 표시된 작은 화면이 있습니다.</details>
+<entities>차량 대시보드, 컨트롤 패널, 다이얼, 버튼, 경고 아이콘</entities>
+<hypothetical_questions>이 대시보드의 기능은 무엇일까? 경고 아이콘이 나타나는 이유는 무엇일까? 이 디자인이 운전자의 편의성에 어떤 영향을 미칠까?</hypothetical_questions></image>

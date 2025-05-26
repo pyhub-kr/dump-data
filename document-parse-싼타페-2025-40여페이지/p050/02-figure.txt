@@ -1,0 +1,4 @@
+<image name='p050/02-figure.jpg'><title>자동차 안전벨트 설명</title>
+<details>이 이미지는 자동차의 안전벨트와 버클을 보여줍니다. 안전벨트는 승객의 안전을 위해 필수적이며, 버클은 안전벨트를 잠그는 장치입니다.</details>
+<entities>자동차, 안전벨트, 버클</entities>
+<hypothetical_questions>안전벨트를 착용하지 않을 경우 어떤 위험이 있을까요? 안전벨트의 디자인이 승객의 안전에 미치는 영향은 무엇일까요?</hypothetical_questions></image>

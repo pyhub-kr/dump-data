@@ -1,0 +1,4 @@
+<image name='p056/02-figure.jpg'><title>자동차 뒷좌석의 유아용 시트 설치</title>
+<details>이미지에는 자동차 뒷좌석에 유아용 시트를 설치하는 모습이 나타나 있습니다. 인형이 유아용 시트를 조작하고 있는 모습으로, 안전한 설치 방법을 강조하는 것 같습니다.</details>
+<entities>자동차, 유아용 시트, 인형</entities>
+<hypothetical_questions>1. 유아용 시트를 설치할 때 가장 중요한 안전 기준은 무엇일까요? 2. 다양한 차량 모델에 따라 유아용 시트 설치 방법이 어떻게 달라질까요? 3. 유아용 시트의 안전성을 높이기 위한 추가적인 기술은 무엇이 있을까요?</hypothetical_questions></image>

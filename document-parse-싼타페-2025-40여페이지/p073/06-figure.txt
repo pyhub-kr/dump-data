@@ -1,0 +1,4 @@
+<image name='p073/06-figure.jpg'><title>자동차 시트 안전 경고</title>
+<details>이 이미지는 자동차 시트에 물체를 두지 말라는 경고를 나타냅니다. 시트는 흰색 가죽으로 되어 있으며, 중앙에 평평한 물체가 놓여 있습니다. 경고 기호가 함께 표시되어 있습니다.</details>
+<entities>자동차 시트, 경고 기호, 물체</entities>
+<hypothetical_questions>1. 자동차 시트에 물체를 두지 않으면 어떤 안전상의 이점이 있을까요? 2. 이러한 경고가 없는 경우, 운전 중 어떤 위험이 발생할 수 있을까요? 3. 자동차 제조사들은 왜 이러한 경고를 강조하는 걸까요?</hypothetical_questions></image>

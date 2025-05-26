@@ -1,0 +1,13 @@
+<image name='p041/08-table.jpg'><title>
+전기 제품 안전 경고
+</title>
+<details>
+이 경고는 시트 커버를 염으로 교체하지 말라는 내용입니다. 열선이 손상되면 화재가 발생할 위험이 있습니다.
+</details>
+<entities>
+시트 커버, 염, 열선, 손상, 화재 위험
+</entities>
+<hypothetical_questions>
+- 시트 커버의 안전성을 높이기 위해 어떤 대체 재료를 사용할 수 있을까요?
+- 열선 손상으로 인한 화재 사고를 예방하기 위한 추가적인 안전 조치는 무엇이 있을까요?
+</hypothetical_questions></image>

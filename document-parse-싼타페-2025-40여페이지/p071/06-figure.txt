@@ -1,0 +1,4 @@
+<image name='p071/06-figure.jpg'><title>자동차 좌석 안전 경고</title>
+<details>이 이미지는 자동차 좌석의 안전 경고를 나타내며, 좌석의 기울임을 조정할 수 없음을 보여줍니다. '금지' 기호가 함께 있어 특정 조작이 허용되지 않음을 강조합니다.</details>
+<entities>자동차 좌석, 금지 기호</entities>
+<hypothetical_questions>이 경고는 어떤 상황에서 발생할 수 있을까? 좌석 조정이 금지된 이유는 무엇일까? 이러한 경고가 운전자의 안전에 어떤 영향을 미칠까?</hypothetical_questions></image>

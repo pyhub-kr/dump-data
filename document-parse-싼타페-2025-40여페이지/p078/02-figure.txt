@@ -1,0 +1,4 @@
+<image name='p078/02-figure.jpg'><title>차량 외관 및 내부 구성 요소</title>
+<details>이 이미지는 차량의 외관과 내부 구성 요소를 보여줍니다. 각 부분(A, B, C, D, E)에 대한 설명이 포함되어 있습니다.</details>
+<entities>차량, 외관, 내부 구성 요소, A, B, C, D, E</entities>
+<hypothetical_questions>이 차량의 각 구성 요소는 어떤 기능을 가지고 있을까요? 차량 디자인의 변화가 운전자의 경험에 어떤 영향을 미칠까요? 이러한 구성 요소가 안전성에 미치는 영향은 무엇일까요?</hypothetical_questions></image>

@@ -1,0 +1,4 @@
+<image name='p005/02-figure.jpg'><title>설정 메뉴 화면</title>
+<details>이 이미지는 어두운 배경의 설정 메뉴 화면을 보여줍니다. 메뉴 항목에는 '일반', '시스템', '라이브', '도이', '다시 시작', '파이' 등이 포함되어 있으며, '스마트 서비스' 옵션이 활성화되어 있습니다.</details>
+<entities>설정 메뉴, 스마트 서비스, 메뉴 항목</entities>
+<hypothetical_questions>이 설정 메뉴는 어떤 기기에서 사용되고 있을까요? '스마트 서비스' 기능은 사용자에게 어떤 이점을 제공할까요? 사용자가 이 메뉴를 통해 어떤 설정을 변경할 가능성이 있을까요?</hypothetical_questions></image>

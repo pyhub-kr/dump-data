@@ -1,0 +1,4 @@
+<image name='p036/07-figure.jpg'><title>차량 뒷좌석 접기 안내</title>
+<details>차량의 뒷좌석을 접는 방법을 설명하는 이미지로, 좌석을 접기 위한 손잡이 위치와 사용 방법을 보여줍니다.</details>
+<entities>차량, 뒷좌석, 손잡이, 접기 방법</entities>
+<hypothetical_questions>이러한 기능이 차량의 적재 공간에 어떤 영향을 미칠까요? 뒷좌석을 접는 것이 차량의 안전성에 미치는 영향은 무엇일까요?</hypothetical_questions></image>

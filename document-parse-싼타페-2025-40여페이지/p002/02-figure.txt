@@ -1,0 +1,4 @@
+<image name='p002/02-figure.jpg'><title>자동차 내부 기능 설명</title>
+<details>이 이미지는 자동차 내부의 다양한 기능과 조작 방법을 설명하는 다이어그램입니다. 각 기능은 번호로 표시되어 있으며, 좌석 조정, 창문 조작, 헤드레스트 조정 등의 세부 사항이 포함되어 있습니다.</details>
+<entities>자동차, 좌석 조정 레버, 창문 스위치, 헤드레스트, 내부 다이어그램</entities>
+<hypothetical_questions>이 기능들이 자동차의 안전성과 편안함에 어떻게 기여할까요? 사용자가 이러한 기능을 쉽게 이해하고 사용할 수 있도록 하기 위해 어떤 추가 정보가 필요할까요?</hypothetical_questions></image>

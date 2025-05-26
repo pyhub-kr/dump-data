@@ -1,0 +1,4 @@
+<image name='p038/06-figure.jpg'><title>차량 도어 잠금 및 해제 버튼</title>
+<details>이 이미지는 차량 도어의 잠금 및 해제 버튼을 보여줍니다. 버튼은 두 개의 화살표 아이콘으로 표시되어 있으며, 도어 잠금 및 해제 기능을 나타냅니다.</details>
+<entities>차량 도어, 잠금 버튼, 해제 버튼</entities>
+<hypothetical_questions>이 버튼을 사용하여 차량의 보안을 어떻게 강화할 수 있을까요? 차량 도어 잠금 시스템의 기술 발전은 향후 어떤 방향으로 나아갈까요?</hypothetical_questions></image>

@@ -1,0 +1,4 @@
+<image name='p028/10-figure.jpg'><title>헤드레스트 조정 방법</title>
+<details>이 이미지는 자동차의 헤드레스트 조정 방법을 설명하고 있습니다. 그림에는 헤드레스트를 올리는 방법과 관련된 두 가지 단계가 나타나 있습니다.</details>
+<entities>헤드레스트, 자동차, 조정 레버</entities>
+<hypothetical_questions>1. 헤드레스트의 높이를 조정하는 것이 운전자의 안전에 어떤 영향을 미칠까요? 2. 다양한 차량 모델에서 헤드레스트 조정 방식이 어떻게 다를 수 있을까요? 3. 헤드레스트의 디자인이 승객의 편안함에 미치는 영향은 무엇일까요?</hypothetical_questions></image>

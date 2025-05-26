@@ -1,0 +1,4 @@
+<image name='p065/05-figure.jpg'><title>자동차 내부와 에어백 시스템</title>
+<details>이 이미지는 자동차 내부를 보여주며, 에어백이 배치된 모습이 나타나 있습니다. 에어백은 충돌 시 탑승자의 안전을 보호하기 위해 설계된 장치입니다.</details>
+<entities>자동차, 에어백, 운전석, 내부 장치</entities>
+<hypothetical_questions>1. 에어백이 작동하지 않을 경우 탑승자는 어떤 위험에 처할 수 있을까? 2. 자동차 안전 기술이 발전함에 따라 에어백 외에 어떤 추가 안전 장치가 필요할까? 3. 에어백의 위치와 디자인이 탑승자의 안전에 미치는 영향은 무엇일까?</hypothetical_questions></image>

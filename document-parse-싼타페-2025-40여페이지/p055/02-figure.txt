@@ -1,0 +1,4 @@
+<image name='p055/02-figure.jpg'><title>어린이 안전 좌석 사용법</title>
+<details>어린이 안전 좌석의 안전벨트를 연결하는 방법을 설명하는 이미지입니다. 안전벨트를 올바르게 연결하는 방법을 보여줍니다.</details>
+<entities>어린이 안전 좌석, 안전벨트</entities>
+<hypothetical_questions>어린이 안전 좌석을 사용할 때 가장 중요한 안전 수칙은 무엇일까요? 안전벨트를 잘못 연결했을 경우 어떤 위험이 있을까요?</hypothetical_questions></image>

@@ -1,0 +1,4 @@
+<image name='p021/02-figure.jpg'><title>자동차 시트 조정 방법</title>
+<details>이 이미지는 자동차 시트의 조정 방법을 설명하고 있습니다. 시트의 머리받침을 조정하는 방법과 시트의 기울기를 조정하는 방법이 포함되어 있습니다.</details>
+<entities>자동차 시트, 머리받침, 조정 레버</entities>
+<hypothetical_questions>1. 자동차 시트를 조정하는 것이 운전자의 편안함에 어떤 영향을 미칠까요? 2. 시트 조정 기능이 없는 차량은 운전자의 안전에 어떤 영향을 줄 수 있을까요? 3. 다양한 체형에 맞춘 시트 조정 기능이 차량 선택에 미치는 영향은 무엇일까요?</hypothetical_questions></image>

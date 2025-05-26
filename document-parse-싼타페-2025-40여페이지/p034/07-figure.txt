@@ -1,0 +1,4 @@
+<image name='p034/07-figure.jpg'><title>차량 뒷좌석 접기 및 조정 방법</title>
+<details>이 이미지는 차량 뒷좌석을 접고 조정하는 방법을 설명하고 있습니다. 좌석을 접기 위한 레버와 그 작동 방식이 시각적으로 나타나 있습니다.</details>
+<entities>차량, 뒷좌석, 레버, 접기 기능</entities>
+<hypothetical_questions>1. 뒷좌석을 접는 기능이 차량의 적재 공간에 어떤 영향을 미칠까? 2. 이 기능이 안전성에 미치는 영향은 무엇일까? 3. 다른 차량 모델에서도 유사한 기능이 있을까?</hypothetical_questions></image>

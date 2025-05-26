@@ -1,0 +1,13 @@
+<image name='p071/04-table.jpg'><title>
+시스템 오류 경고 안내
+</title>
+<details>
+이 경고는 송객 구분 시스템(OCS)에서 오류나 오작동이 발생할 수 있음을 알리고 있습니다. 이러한 문제로 인해 심각한 부상 및 사망의 위험이 존재하므로, 아래의 내용을 준수해야 합니다.
+</details>
+<entities>
+송객 구분 시스템, OCS, 오류, 오작동, 부상, 사망, 위험
+</entities>
+<hypothetical_questions>
+- OCS의 오류 발생 시 어떤 예방 조치를 취할 수 있을까요?
+- 시스템 오작동으로 인한 부상 및 사망 위험을 줄이기 위한 최선의 방법은 무엇인가요?
+</hypothetical_questions></image>

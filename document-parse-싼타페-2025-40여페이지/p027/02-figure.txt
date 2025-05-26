@@ -1,0 +1,4 @@
+<image name='p027/02-figure.jpg'><title>자동차 뒷좌석 및 기능 설명</title>
+<details>이 이미지는 자동차의 뒷좌석 구조와 기능을 보여줍니다. 좌석은 접을 수 있는 기능이 있으며, 스마트폰을 놓을 수 있는 공간이 있습니다.</details>
+<entities>자동차 뒷좌석, 스마트폰 거치대, 접이식 좌석</entities>
+<hypothetical_questions>이러한 좌석 디자인이 승객의 편안함에 어떤 영향을 미칠까요? 접이식 좌석 기능이 실제로 얼마나 유용할까요? 스마트폰 거치대가 있는 자동차 좌석의 장점은 무엇일까요?</hypothetical_questions></image>

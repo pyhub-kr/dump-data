@@ -1,0 +1,4 @@
+<image name='p071/08-figure.jpg'><title>자동차 좌석 안전 경고</title>
+<details>이 이미지는 자동차 좌석에 앉아 있는 사람의 모습을 보여주며, 좌석을 과도하게 뒤로 젖히지 말라는 경고 기호가 함께 있습니다. 이는 안전 운전과 관련된 중요한 정보를 전달합니다.</details>
+<entities>자동차 좌석, 경고 기호, 사람 모형</entities>
+<hypothetical_questions>1. 자동차 좌석의 올바른 자세는 무엇인가요? 2. 좌석을 과도하게 젖히는 것이 안전에 미치는 영향은 무엇인가요? 3. 이러한 경고 기호는 운전자의 행동에 얼마나 효과적일까요?</hypothetical_questions></image>

@@ -1,0 +1,4 @@
+<image name='p072/02-figure.jpg'><title>자동차 시트 안전 경고</title>
+<details>이 이미지는 자동차 시트에 앉아 있는 사람의 모습과 함께 발을 앞으로 뻗지 말라는 경고를 나타냅니다. 이는 안전을 강조하는 메시지로 보입니다.</details>
+<entities>자동차 시트, 인체 모형, 안전 경고 기호</entities>
+<hypothetical_questions>이 경고를 무시할 경우 어떤 위험이 발생할 수 있을까? 자동차 시트의 디자인이 안전성에 미치는 영향은 무엇일까? 안전 교육이 얼마나 효과적으로 이루어져야 할까?</hypothetical_questions></image>

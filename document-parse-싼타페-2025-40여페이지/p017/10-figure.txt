@@ -1,0 +1,4 @@
+<image name='p017/10-figure.jpg'><title>자동차 시트 조정 레버</title>
+<details>이 이미지는 자동차 시트의 조정 레버를 보여줍니다. 레버를 위로 당기면 시트의 높이를 조절할 수 있는 기능을 나타냅니다.</details>
+<entities>자동차 시트, 조정 레버</entities>
+<hypothetical_questions>이 레버가 고장 나면 시트 조정은 어떻게 할 수 있을까요? 시트 조정 기능이 운전자의 안전에 미치는 영향은 무엇일까요?</hypothetical_questions></image>

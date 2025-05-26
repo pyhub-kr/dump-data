@@ -1,0 +1,4 @@
+<image name='p018/12-figure.jpg'><title>차량 내부 구조</title>
+<details>이 이미지는 차량의 내부 구조를 위에서 바라본 모습으로, 좌석 배치와 공간 활용을 보여줍니다. 중앙에 두 개의 좌석이 있으며, 양쪽에 화살표가 표시되어 있습니다.</details>
+<entities>차량, 좌석, 화살표</entities>
+<hypothetical_questions>이 차량의 좌석 배치는 승객의 편안함에 어떤 영향을 미칠까요? 중앙 좌석의 디자인은 어떤 기능성을 제공할 수 있을까요? 이 구조가 다양한 용도로 사용될 수 있는 가능성은 무엇인가요?</hypothetical_questions></image>

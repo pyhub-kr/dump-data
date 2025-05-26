@@ -1,0 +1,4 @@
+<image name='p020/03-figure.jpg'><title>헤드레스트 조정 방법</title>
+<details>이 이미지는 자동차 헤드레스트를 조정하는 방법을 설명합니다. 1번은 헤드레스트를 위로 올리는 방향, 3번은 아래로 내리는 방향을 나타내며, 2번은 조정 레버를 보여줍니다.</details>
+<entities>헤드레스트, 조정 레버, 자동차 시트</entities>
+<hypothetical_questions>헤드레스트 조정이 운전자의 안전에 미치는 영향은 무엇일까요? 다양한 차량 모델에서 헤드레스트 조정 방식이 어떻게 다를 수 있을까요?</hypothetical_questions></image>

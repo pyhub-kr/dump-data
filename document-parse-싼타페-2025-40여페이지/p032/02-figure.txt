@@ -1,0 +1,4 @@
+<image name='p032/02-figure.jpg'><title>안전벨트 고정 장치</title>
+<details>이 이미지는 차량의 안전벨트 고정 장치를 보여줍니다. 고정 장치는 안전벨트를 차량에 안전하게 부착하는 역할을 합니다.</details>
+<entities>안전벨트, 고정 장치</entities>
+<hypothetical_questions>이 고정 장치의 디자인은 안전성에 어떤 영향을 미칠까요? 차량의 안전벨트 시스템을 개선하기 위해 어떤 기술이 도입될 수 있을까요?</hypothetical_questions></image>

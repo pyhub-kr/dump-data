@@ -1,0 +1,4 @@
+<image name='p046/02-figure.jpg'><title>자동차 내부 대시보드와 안전벨트 경고</title>
+<details>이 이미지는 자동차 내부의 대시보드를 보여주며, 안전벨트 미착용을 경고하는 아이콘이 포함되어 있습니다. 대시보드에는 디지털 화면이 있으며, 운전자가 주의해야 할 사항을 나타내는 경고 표시가 있습니다.</details>
+<entities>자동차 대시보드, 안전벨트 경고 아이콘</entities>
+<hypothetical_questions>운전 중 안전벨트를 착용하지 않으면 어떤 위험이 있을까? 대시보드의 경고 시스템은 운전자의 안전에 얼마나 중요한 역할을 할까?</hypothetical_questions></image>

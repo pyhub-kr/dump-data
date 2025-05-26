@@ -1,0 +1,4 @@
+<image name='p081/05-figure.jpg'><title>차량 충돌 경고 이미지</title>
+<details>이 이미지는 두 차량이 충돌하는 상황을 나타내며, 충돌을 경고하는 시각적 효과가 포함되어 있습니다. 흰색 차량과 회색 차량이 서로 가까이 위치해 있으며, 충돌을 나타내는 폭발 효과가 중앙에 있습니다.</details>
+<entities>흰색 SUV, 회색 세단, 충돌 경고 아이콘</entities>
+<hypothetical_questions>이러한 충돌 경고 시스템이 실제 사고를 얼마나 줄일 수 있을까? 운전자가 경고를 받았을 때 어떤 행동을 취해야 할까? 이러한 기술이 미래의 차량 안전에 어떤 영향을 미칠까?</hypothetical_questions></image>

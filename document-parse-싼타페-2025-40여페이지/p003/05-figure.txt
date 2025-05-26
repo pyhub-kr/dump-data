@@ -1,0 +1,4 @@
+<image name='p003/05-figure.jpg'><title>자동차 좌석 조정 및 기능 안내</title>
+<details>이 이미지는 자동차 내부의 좌석 조정 기능을 설명하는 다이어그램입니다. 좌석의 다양한 조정 방법과 기능이 번호로 표시되어 있습니다.</details>
+<entities>자동차, 좌석, 조정 레버, 헤드레스트, 버튼</entities>
+<hypothetical_questions>1. 이 조정 기능이 운전자의 편안함에 어떤 영향을 미칠까요? 2. 좌석 조정 기능이 안전성에 미치는 영향은 무엇일까요? 3. 다양한 좌석 조정 옵션이 소비자 선택에 어떤 역할을 할까요?</hypothetical_questions></image>

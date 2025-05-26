@@ -1,0 +1,4 @@
+<image name='p072/04-figure.jpg'><title>자동차 좌석 안전 경고</title>
+<details>이 이미지는 자동차 좌석에 대한 안전 경고를 나타냅니다. 좌석에 앉아 있는 사람의 모습과 함께, 발을 앞으로 뻗지 말라는 경고 기호가 있습니다.</details>
+<entities>자동차 좌석, 경고 기호, 사람 모형</entities>
+<hypothetical_questions>이 경고를 무시할 경우 어떤 위험이 있을까요? 자동차 좌석의 안전성을 높이기 위해 어떤 추가 조치를 취할 수 있을까요?</hypothetical_questions></image>

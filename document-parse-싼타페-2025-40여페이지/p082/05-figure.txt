@@ -1,0 +1,4 @@
+<image name='p082/05-figure.jpg'><title>차량의 회전 동작</title>
+<details>이 이미지는 차량이 회전하는 동작을 여러 단계로 보여줍니다. 차량이 한쪽으로 기울어지는 모습이 연속적으로 나타나며, 이는 차량의 동적 행동을 설명하는 데 사용될 수 있습니다.</details>
+<entities>차량, 도로</entities>
+<hypothetical_questions>1. 차량의 회전 동작이 안전성에 미치는 영향은 무엇인가요? 2. 이러한 동작을 통해 차량의 설계에 어떤 개선이 필요할까요? 3. 다양한 도로 조건에서 차량의 회전 동작은 어떻게 달라질까요?</hypothetical_questions></image>

@@ -1,0 +1,4 @@
+<image name='p075/02-figure.jpg'><title>자동차 에어백 시스템 설명</title>
+<details>이 이미지는 자동차 내부의 에어백 시스템을 설명하는 내용으로 보입니다. 상단에는 에어백 라벨이 보이며, 하단에는 에어백이 장착된 차량 내부의 모습이 나타나 있습니다.</details>
+<entities>에어백, 자동차 내부, 인체 모형</entities>
+<hypothetical_questions>1. 에어백 시스템의 작동 원리는 무엇인가요? 2. 에어백이 사고 시 승객의 안전에 미치는 영향은 얼마나 클까요? 3. 다양한 차량 모델에서 에어백의 위치와 수는 어떻게 다를까요?</hypothetical_questions></image>

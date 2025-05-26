@@ -1,0 +1,4 @@
+<image name='p069/02-figure.jpg'><title>자동차 좌석 조정 시뮬레이션</title>
+<details>이 이미지는 자동차 좌석의 조정 과정을 보여줍니다. 인체 모형이 좌석에 앉아 있으며, 좌석의 위치와 각도가 조정되는 모습을 나타냅니다.</details>
+<entities>자동차 좌석, 인체 모형</entities>
+<hypothetical_questions>1. 자동차 좌석의 조정이 운전자의 안전에 미치는 영향은 무엇인가요? 2. 다양한 체형에 맞춘 좌석 디자인은 어떻게 개선될 수 있을까요? 3. 좌석 조정 기능이 자동화된다면, 운전 경험에 어떤 변화가 있을까요?</hypothetical_questions></image>

@@ -1,0 +1,4 @@
+<image name='p080/05-figure.jpg'><title>자동차 충돌 경고 시스템</title>
+<details>이미지는 SUV 차량이 다른 차량과 충돌하는 상황을 보여줍니다. 상단의 작은 화면은 차량 내부의 스티어링 휠과 대시보드를 나타내고 있습니다. 충돌 경고 시스템이 작동 중인 것으로 보입니다.</details>
+<entities>SUV 차량, 스티어링 휠, 대시보드, 충돌 경고 시스템</entities>
+<hypothetical_questions>이 시스템이 실제로 사고를 예방할 수 있을까? 충돌 경고 시스템의 신뢰성은 얼마나 될까? 이러한 기술이 모든 차량에 필수적으로 장착되어야 할까?</hypothetical_questions></image>

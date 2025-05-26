@@ -1,0 +1,13 @@
+<image name='p038/09-table.jpg'><title>
+2월 자석의 안전 주의사항
+</title>
+<details>
+2월 자석의 탐승자를 확인한 후 자석을 접으라는 경고입니다. 자석에 애완동물, 수화물, 사람이 있을 경우 탐승자가 나올 수 있으니 자석을 접지 말라는 내용입니다.
+</details>
+<entities>
+자석, 탐승자, 애완동물, 수화물, 안전
+</entities>
+<hypothetical_questions>
+- 자석을 접을 때 애완동물이나 수화물이 있을 경우 어떤 위험이 발생할 수 있을까요?
+- 이러한 안전 주의사항을 준수하지 않았을 때의 결과는 무엇일까요?
+</hypothetical_questions></image>

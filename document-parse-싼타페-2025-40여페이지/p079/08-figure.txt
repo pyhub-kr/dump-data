@@ -1,0 +1,4 @@
+<image name='p079/08-figure.jpg'><title>자동차 충돌 상황</title>
+<details>이 이미지는 두 대의 자동차가 충돌하는 장면을 나타내고 있습니다. 한 차량은 어두운 색상이고, 다른 차량은 밝은 색상으로 보입니다. 충돌 지점에는 폭발 효과가 추가되어 있습니다.</details>
+<entities>자동차, 충돌, 도로</entities>
+<hypothetical_questions>이런 상황에서 운전자는 어떻게 반응해야 할까요? 충돌 사고를 예방하기 위한 안전 운전 방법은 무엇일까요?</hypothetical_questions></image>

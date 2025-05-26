@@ -1,0 +1,4 @@
+<image name='p031/03-figure.jpg'><title>안전벨트 잠금 장치</title>
+<details>이 이미지는 차량의 안전벨트 잠금 장치를 보여줍니다. 안전벨트의 고정 부분이 잘 보이며, 사용자가 안전벨트를 쉽게 잠글 수 있도록 설계되어 있습니다.</details>
+<entities>안전벨트, 잠금 장치</entities>
+<hypothetical_questions>1. 안전벨트 잠금 장치의 디자인이 운전자의 안전에 어떤 영향을 미칠까요? 2. 이 장치의 개선이 차량 사고 예방에 기여할 수 있을까요? 3. 다른 차량 안전 장치와의 통합이 가능할까요?</hypothetical_questions></image>

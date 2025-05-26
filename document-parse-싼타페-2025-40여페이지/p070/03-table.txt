@@ -1,0 +1,13 @@
+<image name='p070/03-table.jpg'><title>
+승객 에어백 작동 조건
+</title>
+<details>
+이 표는 승객 에어백 작동 조건에 대한 정보를 제공합니다. 성인 탑승 시 에어백이 작동하며, 어린이 탑승 시 특정 조건이 충족되어야 합니다. 시스템 오류 발생 시 에어백이 작동하지 않습니다.
+</details>
+<entities>
+성인, 어린이, 에어백, 시스템 오류, 작동 조건
+</entities>
+<hypothetical_questions>
+- 어린이 탑승 시 에어백 작동 조건을 어떻게 개선할 수 있을까?
+- 시스템 오류 발생 시 안전성을 높이기 위한 대책은 무엇일까?
+</hypothetical_questions></image>

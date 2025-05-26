@@ -1,0 +1,4 @@
+<image name='p056/06-figure.jpg'><title>차량 뒷좌석 접이식 기능 설명</title>
+<details>이 이미지는 차량의 뒷좌석 접이식 기능을 보여줍니다. 좌석 뒤쪽에 있는 고리와 잠금 장치가 강조되어 있으며, 이를 통해 짐을 쉽게 실을 수 있도록 설계된 모습입니다.</details>
+<entities>차량, 뒷좌석, 고리, 잠금 장치</entities>
+<hypothetical_questions>이 기능이 차량의 적재 용량에 어떤 영향을 미칠까요? 뒷좌석을 접는 것이 안전성에 미치는 영향은 무엇일까요? 이 기능이 다양한 상황에서 어떻게 활용될 수 있을까요?</hypothetical_questions></image>

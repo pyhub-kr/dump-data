@@ -1,0 +1,4 @@
+<image name='p081/08-figure.jpg'><title>차량 충돌 사고</title>
+<details>이 이미지는 두 차량이 충돌하는 장면을 나타내고 있습니다. 충돌 지점에서 폭발 효과가 그려져 있어 사고의 심각성을 강조하고 있습니다.</details>
+<entities>차량, 도로, 충돌 효과</entities>
+<hypothetical_questions>이 사고를 예방하기 위해 어떤 안전 조치를 취할 수 있을까? 차량 충돌 사고가 발생했을 때, 피해자는 어떤 절차를 따라야 할까? 이러한 사고가 빈번하게 발생하는 지역은 어떤 대책이 필요할까?</hypothetical_questions></image>

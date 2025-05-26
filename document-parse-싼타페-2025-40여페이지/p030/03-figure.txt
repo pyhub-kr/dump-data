@@ -1,0 +1,4 @@
+<image name='p030/03-figure.jpg'><title>자동차 시트 팔걸이 조정 방법</title>
+<details>이 이미지는 자동차 시트의 팔걸이를 조정하는 방법을 보여줍니다. 팔걸이가 위아래로 움직일 수 있는 구조로 되어 있습니다.</details>
+<entities>자동차 시트, 팔걸이</entities>
+<hypothetical_questions>팔걸이를 조정함으로써 운전자의 편안함이 얼마나 향상될까요? 팔걸이의 조정 기능이 없는 차량은 어떤 불편함을 초래할까요?</hypothetical_questions></image>

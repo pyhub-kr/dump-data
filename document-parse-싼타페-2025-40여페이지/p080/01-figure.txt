@@ -1,0 +1,4 @@
+<image name='p080/01-figure.jpg'><title>자동차 내부의 에어백 시스템</title>
+<details>이 이미지는 자동차 내부에서 에어백 시스템이 작동하는 모습을 보여줍니다. 두 개의 인체 모형이 좌석에 앉아 있으며, 에어백이 전개된 상태입니다.</details>
+<entities>자동차, 에어백, 인체 모형</entities>
+<hypothetical_questions>1. 에어백 시스템이 사고 발생 시 승객의 생명을 얼마나 보호할 수 있을까? 2. 다양한 차량 모델에서 에어백의 위치와 수는 어떻게 다를까? 3. 에어백 외에 추가적인 안전 장치가 있다면 어떤 것들이 있을까?</hypothetical_questions></image>

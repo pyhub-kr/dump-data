@@ -1,0 +1,4 @@
+<image name='p068/05-figure.jpg'><title>자동차 좌석 및 에어백 표시</title>
+<details>이 이미지는 자동차 좌석의 에어백 작동 표시와 관련된 정보를 보여줍니다. 상단에는 좌석의 위치 조정 방법이 나타나고, 하단에는 'PASSENGER AIR BAG OFF'라는 경고가 표시되어 있습니다.</details>
+<entities>자동차 좌석, 에어백, 경고 표시</entities>
+<hypothetical_questions>1. 에어백이 꺼져 있을 때의 안전성은 어떻게 보장될까요? 2. 좌석 조정 방법이 잘못되었을 경우 어떤 위험이 발생할 수 있을까요? 3. 에어백 작동 여부를 확인하기 위한 추가적인 안전 장치는 무엇이 있을까요?</hypothetical_questions></image>

@@ -1,0 +1,4 @@
+<image name='p081/02-figure.jpg'><title>자동차 충돌 경고 시스템</title>
+<details>이 이미지는 자동차 충돌 경고 시스템을 설명하고 있습니다. 흰색 SUV가 검은색 차량에 충돌하는 상황을 보여주며, 대시보드에서 경고 신호가 나타나는 모습이 포함되어 있습니다.</details>
+<entities>흰색 SUV, 검은색 차량, 대시보드, 충돌 경고 시스템</entities>
+<hypothetical_questions>이 시스템이 실제로 사고를 줄이는 데 얼마나 효과적일까? 충돌 경고 시스템이 없는 차량과 비교했을 때, 운전자의 반응 시간은 어떻게 달라질까?</hypothetical_questions></image>

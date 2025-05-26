@@ -1,0 +1,4 @@
+<image name='p084/02-figure.jpg'><title>차량 내부의 태양 가리개</title>
+<details>이 이미지는 차량 내부의 태양 가리개에 부착된 검은색 패널을 보여줍니다. 패널은 태양광을 차단하는 기능을 가지고 있으며, 차량의 디자인과 기능성을 고려한 요소입니다.</details>
+<entities>차량, 태양 가리개, 검은색 패널</entities>
+<hypothetical_questions>이 패널의 기능은 무엇인가요? 차량의 디자인에 있어 태양 가리개는 얼마나 중요한 역할을 할까요? 이 패널이 다른 색상이나 디자인으로 제공된다면, 소비자에게 어떤 영향을 미칠까요?</hypothetical_questions></image>

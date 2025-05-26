@@ -1,0 +1,4 @@
+<image name='p022/02-figure.jpg'><title>자동차 좌석 안전 경고</title>
+<details>이 이미지는 자동차 좌석의 안전 경고를 나타내고 있습니다. 좌석이 특정 방향으로 조정되거나 사용되지 않아야 함을 알리는 기호가 포함되어 있습니다.</details>
+<entities>자동차 좌석, 안전 경고 기호</entities>
+<hypothetical_questions>이 경고는 어떤 상황에서 가장 중요할까요? 좌석 조정이 안전에 미치는 영향은 무엇일까요? 이러한 경고를 무시했을 때 발생할 수 있는 위험은 무엇일까요?</hypothetical_questions></image>

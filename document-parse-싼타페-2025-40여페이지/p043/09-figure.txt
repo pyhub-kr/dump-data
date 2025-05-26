@@ -1,0 +1,4 @@
+<image name='p043/09-figure.jpg'><title>안전벨트 착용 방법</title>
+<details>이 이미지는 안전벨트를 착용하는 방법을 설명하고 있습니다. 사용자가 안전벨트를 올바르게 착용하는 과정을 보여줍니다.</details>
+<entities>안전벨트, 인체 모형</entities>
+<hypothetical_questions>안전벨트를 착용하지 않았을 때의 위험은 무엇일까요? 안전벨트 착용 교육이 얼마나 효과적일까요?</hypothetical_questions></image>
