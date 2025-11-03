@@ -46,7 +46,7 @@ print(res.status_code)
 csv_string = res.content.decode("cp949", errors="ignore")
 
 
-filename = f"{datetime.datetime.now().strftime("%Y%m%d")}-utf8.csv"
+filename = f"{datetime.datetime.now().strftime("%Y%m%d-%H%M%S")}-utf8.csv"
 
 with open(filename, "wt", encoding="utf8") as f_out:
     f_out.write(csv_string)
