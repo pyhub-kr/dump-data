@@ -8,5 +8,14 @@ https://data.seoul.go.kr/dataList/OA-15486/S/1/datasetView.do
 
 ## 후처리
 
-cp949 인코딩이며, invalid char code가 있어서, 후처리가 필요.
+1. cp949 인코딩이며, invalid char code가 있어서, 후처리가 필요.
+2. CSV는 ‘행 구조’는 있지만 문맥이 약하고, 키(열 이름)와 값의 관계가 불분명한 텍스트로 인식됩니다.
+3. 그래서 `jsonl` 포맷으로 변환하여 저장합니다.
+
+### 제외된 컬럼
+
+- ❌ 대표이미지
+- ❌ 신청일
+- ❌ 시민/기관
+- ❌ 문화포털상세URL
 

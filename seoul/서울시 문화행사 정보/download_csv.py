@@ -2,12 +2,14 @@
 # 이 오류는 서버 측 SSL 설정이 약한 Diffie-Hellman 키(‘dh key too small’) 를 사용하고 있어서,
 # Python의 기본 SSL 보안 정책이 이를 거부하여 SSL Error가 발생합니다.
 
+import csv
 import datetime
+import io
+import json
 import ssl
 import requests
 from urllib3.poolmanager import PoolManager
 from requests.adapters import HTTPAdapter
-import pandas as pd
 
 
 class SSLAdapter(HTTPAdapter):
@@ -46,14 +48,34 @@ print(res.status_code)
 csv_string = res.content.decode("cp949", errors="ignore")
 
 
-filename = f"{datetime.datetime.now().strftime("%Y%m%d-%H%M%S")}-utf8.csv"
+filename = f"{datetime.datetime.now().strftime("%Y%m%d-%H%M%S")}-utf8.jsonl"
 
+# CSV 문자열을 파싱하여 JSONL로 변환
+csv_reader = csv.DictReader(io.StringIO(csv_string))
+records = list(csv_reader)
+
+# 제외할 컬럼 목록
+exclude_columns = {"대표이미지", "신청일", "시민/기관", "문화포털상세URL"}
+
+# JSONL 파일로 저장 (불필요한 컬럼 제외)
 with open(filename, "wt", encoding="utf8") as f_out:
-    f_out.write(csv_string)
+    for record in records:
+        # 제외할 컬럼 삭제
+        filtered_record = {k: v for k, v in record.items() if k not in exclude_columns}
+        json.dump(filtered_record, f_out, ensure_ascii=False)
+        f_out.write("\n")
 
-df = pd.read_csv(filename).fillna("")
-print(df.shape)
-df.head()
+# JSONL 파일 읽기 및 검증
+with open(filename, "rt", encoding="utf8") as f_in:
+    lines = f_in.readlines()
+    print(f"Total records: {len(lines)}")
 
-print(f"writen {filename}")
+    # 첫 5개 레코드 출력
+    for i, line in enumerate(lines[:5]):
+        record = json.loads(line)
+        if i == 0:
+            print(f"Fields: {list(record.keys())}")
+        print(f"Record {i+1}: {record}")
+
+print(f"Written {filename}")
 
